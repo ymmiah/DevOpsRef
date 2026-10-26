@@ -86,6 +86,7 @@ Examples:
 
 ```
 index.html                  the web app
+developer.html              developer profile page
 assets/css/styles.css       design system (light/dark)
 assets/js/search.js         search engine: boolean parser, field queries, fuzzy matching
 assets/js/exporters.js      Harvard / BibTeX / RIS / CSV generators (browser + Node)
@@ -147,7 +148,12 @@ Things to check before you submit work:
 
 **Yasin Mohammed Miah — Student of BCU, BSc Computing Top-Up (Hons)**
 
+Software developer focused on security, DevSecOps and AI. Developer page: [ymmiah.github.io/DevOpsRef/developer.html](https://ymmiah.github.io/DevOpsRef/developer.html)
+
+- LinkedIn: [linkedin.com/in/ymmiah](https://www.linkedin.com/in/ymmiah/)
 - GitHub: [github.com/ymmiah](https://github.com/ymmiah)
+- Kaggle: [kaggle.com/ymmiah](https://www.kaggle.com/ymmiah)
+- Website: [ymmiah.com](https://ymmiah.com)
 - Project: [github.com/ymmiah/DevOpsRef](https://github.com/ymmiah/DevOpsRef) · Live site: [ymmiah.github.io/DevOpsRef](https://ymmiah.github.io/DevOpsRef/)
 
 ## Licence

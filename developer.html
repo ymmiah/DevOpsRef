@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Developer — Yasin Mohammed Miah · DevOpsRef</title>
+<meta name="description" content="Yasin Mohammed Miah — Student of BCU, BSc Computing Top-Up (Hons). Software developer focused on security, DevSecOps and AI. Developer of DevOpsRef.">
+<meta name="author" content="Yasin Mohammed Miah">
+<meta property="og:title" content="Yasin Mohammed Miah — Developer of DevOpsRef">
+<meta property="og:image" content="assets/avatar-ymmiah.png">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#4f46e5">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/css/styles.css">
+<script>
+  (function () {
+    try {
+      var t = localStorage.getItem("devopsref-theme");
+      if (!t) t = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+      document.documentElement.setAttribute("data-theme", t);
+    } catch (e) {}
+  })();
+</script>
+</head>
+<body class="dev-page">
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header slim">
+  <div class="container header-inner">
+    <a class="brand brand-link" href="./">
+      <div class="logo" aria-hidden="true">
+        <svg viewBox="0 0 32 32" width="34" height="34"><defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#14b8a6"/></linearGradient></defs><rect width="32" height="32" rx="8" fill="url(#lg)"/><path d="M9 11.5c3.5-4 10.5-4 14 0M9 20.5c3.5 4 10.5 4 14 0" stroke="#fff" stroke-width="2.4" fill="none" stroke-linecap="round"/><circle cx="16" cy="16" r="2.6" fill="#fff"/></svg>
+      </div>
+      <div>
+        <p class="eyebrow">DevOpsRef</p>
+        <p class="brand-title">DevOps &amp; Enterprise Automation <span class="h1-sub">Reference Library</span></p>
+      </div>
+    </a>
+    <nav class="header-actions" aria-label="Site navigation">
+      <a class="btn btn-ghost" href="./"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg><span>Library</span></a>
+      <a class="btn btn-ghost active" href="developer.html" aria-current="page"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 4.5-6 8-6s6.5 2 8 6"/></svg><span>Developer</span></a>
+      <button class="btn btn-ghost icon-only" id="themeToggle" type="button" aria-label="Toggle dark mode" title="Toggle dark / light mode">
+        <svg class="ico ico-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+        <svg class="ico ico-moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8Z"/></svg>
+      </button>
+    </nav>
+  </div>
+  <div class="container">
+    <section class="profile-hero" aria-labelledby="devName">
+      <img class="profile-photo" src="assets/avatar-ymmiah.png" width="160" height="160" alt="Portrait of Yasin Mohammed Miah">
+      <div class="profile-main">
+        <p class="eyebrow">Developer of DevOpsRef</p>
+        <h1 id="devName">Yasin Mohammed Miah</h1>
+        <p class="profile-role">Student of BCU, BSc Computing Top-Up (Hons)</p>
+        <p class="profile-headline">Software Developer, WordPress Engineer &amp; Security Researcher — building secure, intelligent &amp; scalable digital products.</p>
+        <p class="profile-quote">“Building tomorrow with code, curiosity and AI.”</p>
+        <div class="social"><a class="btn btn-ghost social-btn" href="https://www.linkedin.com/in/ymmiah/" target="_blank" rel="noopener me" aria-label="LinkedIn" title="LinkedIn"><svg class="ico fill" viewBox="0 0 24 24" aria-hidden="true"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.35V9h3.41v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28ZM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13ZM7.12 20.45H3.56V9h3.56v11.45ZM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0Z"/></svg><span>LinkedIn</span></a><a class="btn btn-ghost social-btn" href="https://github.com/ymmiah" target="_blank" rel="noopener me" aria-label="GitHub" title="GitHub"><svg class="ico fill" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 .5a11.5 11.5 0 0 0-3.6 22.4c.6.1.8-.3.8-.6v-2c-3.2.7-3.9-1.5-3.9-1.5-.5-1.3-1.3-1.7-1.3-1.7-1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1 1.8 2.8 1.3 3.5 1 .1-.8.4-1.3.7-1.6-2.6-.3-5.3-1.3-5.3-5.7 0-1.3.5-2.3 1.2-3.1-.1-.3-.5-1.5.1-3.1 0 0 1-.3 3.2 1.2a11 11 0 0 1 5.8 0C17.3 4 18.3 4.3 18.3 4.3c.6 1.6.2 2.8.1 3.1.8.8 1.2 1.8 1.2 3.1 0 4.4-2.7 5.4-5.3 5.7.4.4.8 1.1.8 2.2v3.2c0 .3.2.7.8.6A11.5 11.5 0 0 0 12 .5Z"/></svg><span>GitHub</span></a><a class="btn btn-ghost social-btn" href="https://www.kaggle.com/ymmiah" target="_blank" rel="noopener me" aria-label="Kaggle" title="Kaggle"><svg class="ico fill" viewBox="0 0 24 24" aria-hidden="true"><path d="M18.83 23.65c-.03.23-.15.35-.37.35h-3.06a.6.6 0 0 1-.49-.24l-5.07-6.45-1.41 1.34v4.99c0 .24-.12.36-.36.36H5.68c-.24 0-.36-.12-.36-.36V.71c0-.24.12-.36.36-.36h2.39c.24 0 .36.12.36.36v14.37l6.13-6.2a.6.6 0 0 1 .46-.21h3.18c.15 0 .25.06.3.2.04.15.03.26-.04.34l-6.48 6.29 6.77 8.15c.1.1.12.22.08.34Z"/></svg><span>Kaggle</span></a><a class="btn btn-ghost social-btn" href="https://ymmiah.com" target="_blank" rel="noopener me" aria-label="Website" title="Website"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9.5"/><path d="M2.5 12h19M12 2.5c2.6 2.6 3.9 5.8 3.9 9.5s-1.3 6.9-3.9 9.5c-2.6-2.6-3.9-5.8-3.9-9.5S9.4 5.1 12 2.5Z"/></svg><span>Website</span></a></div>
+      </div>
+    </section>
+  </div>
+</header>
+
+<main id="main" class="container dev-main">
+  <section class="dev-block" aria-labelledby="aboutH">
+    <h2 id="aboutH">About</h2>
+    <div class="about-grid">
+      <div class="about-text">
+        <p>Yasin designs and engineers software where security is a feature, not a patch — from hardened WordPress platforms and DevSecOps pipelines to AI-assisted tooling and technical research.</p>
+        <p>His work sits at the intersection of software engineering, WordPress platforms and security: building products end to end, hardening the infrastructure they run on, and researching how teams can ship faster without shipping risk. He is currently studying computing, with a thesis on software supply-chain security.</p>
+        <p class="muted small">Summary based on <a href="https://ymmiah.com" target="_blank" rel="noopener">ymmiah.com</a> and his public GitHub, Kaggle and LinkedIn profiles.</p>
+      </div>
+      <aside class="about-facts" aria-label="Quick facts">
+        <dl>
+          <div><dt>Study</dt><dd>BSc Computing Top-Up (Hons), BCU</dd></div>
+          <div><dt>Role</dt><dd>Software Engineer (Kaggle profile)</dd></div>
+          <div><dt>Focus</dt><dd>Security · DevSecOps · AI</dd></div>
+          <div><dt>Open source</dt><dd><a href="https://github.com/ymmiah?tab=repositories" target="_blank" rel="noopener">19 public repositories</a></dd></div>
+        </dl>
+      </aside>
+    </div>
+  </section>
+
+  <section class="dev-block" aria-labelledby="focusH">
+    <h2 id="focusH">Focus areas</h2>
+    <ol class="focus-grid"><li class="focus"><span class="focus-n">01</span><h3>Software Development</h3><p>Full-stack product engineering with TypeScript, PHP, and Python.</p></li><li class="focus"><span class="focus-n">02</span><h3>WordPress Engineering</h3><p>Custom themes, plugins, and performance work at platform level.</p></li><li class="focus"><span class="focus-n">03</span><h3>DevSecOps</h3><p>Security gates, infrastructure as code, and pipelines that enforce policy.</p></li><li class="focus"><span class="focus-n">04</span><h3>Cybersecurity</h3><p>Hardening, auditing, and threat-aware architecture for the web.</p></li><li class="focus"><span class="focus-n">05</span><h3>AI</h3><p>Building LLM-powered tooling with strict data boundaries and evaluation.</p></li><li class="focus"><span class="focus-n">06</span><h3>Technical Research</h3><p>Research into securing modern software supply chains.</p></li></ol>
+    <h3 class="sub-h">Stack</h3>
+    <ul class="stack"><li>TypeScript</li><li>WordPress</li><li>PHP</li><li>Python</li><li>Docker</li><li>Linux</li><li>CI/CD</li><li>AI/ML</li></ul>
+  </section>
+
+  <section class="dev-block" aria-labelledby="projH">
+    <div class="block-head"><h2 id="projH">Selected projects</h2><a class="btn btn-ghost btn-sm" href="https://github.com/ymmiah?tab=repositories" target="_blank" rel="noopener"><svg class="ico fill" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 .5a11.5 11.5 0 0 0-3.6 22.4c.6.1.8-.3.8-.6v-2c-3.2.7-3.9-1.5-3.9-1.5-.5-1.3-1.3-1.7-1.3-1.7-1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1 1.8 2.8 1.3 3.5 1 .1-.8.4-1.3.7-1.6-2.6-.3-5.3-1.3-5.3-5.7 0-1.3.5-2.3 1.2-3.1-.1-.3-.5-1.5.1-3.1 0 0 1-.3 3.2 1.2a11 11 0 0 1 5.8 0C17.3 4 18.3 4.3 18.3 4.3c.6 1.6.2 2.8.1 3.1.8.8 1.2 1.8 1.2 3.1 0 4.4-2.7 5.4-5.3 5.7.4.4.8 1.1.8 2.2v3.2c0 .3.2.7.8.6A11.5 11.5 0 0 0 12 .5Z"/></svg><span>All repositories</span></a></div>
+    <ul class="proj-grid"><li class="proj">
+        <div class="proj-head"><h3><a href="https://github.com/ymmiah/DevOpsRef" target="_blank" rel="noopener">DevOpsRef</a></h3><span class="badge peer">This site</span></div>
+        <p>Searchable library of 214 verified academic references on DevOps and Enterprise Automation.</p>
+        <div class="proj-foot"><span class="lang"><i></i>HTML / JavaScript</span><span class="proj-links"><a href="https://github.com/ymmiah/DevOpsRef" target="_blank" rel="noopener">Repository</a> · <a href="https://ymmiah.github.io/DevOpsRef/">Live site</a></span></div>
+      </li><li class="proj">
+        <div class="proj-head"><h3><a href="https://github.com/ymmiah/OpenSecGate" target="_blank" rel="noopener">OpenSecGate</a></h3><span class="badge peer">Pinned</span></div>
+        <p>Design and Evaluation of an Open-Source Security Gate for CI/CD Pipelines Using Context-Aware Vulnerability Prioritisation.</p>
+        <div class="proj-foot"><span></span><span class="proj-links"><a href="https://github.com/ymmiah/OpenSecGate" target="_blank" rel="noopener">Repository</a></span></div>
+      </li><li class="proj">
+        <div class="proj-head"><h3><a href="https://github.com/ymmiah/AegisSec" target="_blank" rel="noopener">AegisSec</a></h3><span class="badge peer">Pinned</span></div>
+        <p>AegisSec AI is an AI-native cybersecurity platform for vulnerability intelligence, security automation, agent routing, Red/Blue Team, SOC, DFIR, DevSecOps, AppSec, Cloud and AI Security.</p>
+        <div class="proj-foot"><span class="lang"><i></i>Python</span><span class="proj-links"><a href="https://github.com/ymmiah/AegisSec" target="_blank" rel="noopener">Repository</a></span></div>
+      </li><li class="proj">
+        <div class="proj-head"><h3><a href="https://github.com/ymmiah/AutoMotoAI" target="_blank" rel="noopener">AutoMotoAI</a></h3><span class="badge peer">Pinned</span></div>
+        <p>Intelligent Windows Automation Agent.</p>
+        <div class="proj-foot"><span class="lang"><i></i>Python</span><span class="proj-links"><a href="https://github.com/ymmiah/AutoMotoAI" target="_blank" rel="noopener">Repository</a></span></div>
+      </li><li class="proj">
+        <div class="proj-head"><h3><a href="https://github.com/ymmiah/Steganography-Studio" target="_blank" rel="noopener">Steganography-Studio</a></h3></div>
+        <p>Steganography Studio.</p>
+        <div class="proj-foot"><span class="lang"><i></i>TypeScript</span><span class="proj-links"><a href="https://github.com/ymmiah/Steganography-Studio" target="_blank" rel="noopener">Repository</a></span></div>
+      </li><li class="proj">
+        <div class="proj-head"><h3><a href="https://github.com/ymmiah/PassportUK-Pro" target="_blank" rel="noopener">PassportUK-Pro</a></h3></div>
+        <p>PassportUK Pro Intelligence Engine 2.5.</p>
+        <div class="proj-foot"><span class="lang"><i></i>TypeScript</span><span class="proj-links"><a href="https://github.com/ymmiah/PassportUK-Pro" target="_blank" rel="noopener">Repository</a></span></div>
+      </li><li class="proj">
+        <div class="proj-head"><h3><a href="https://github.com/ymmiah/AI-Interview-Pro" target="_blank" rel="noopener">AI-Interview-Pro</a></h3></div>
+        <p>AI Interview Pro.</p>
+        <div class="proj-foot"><span class="lang"><i></i>TypeScript</span><span class="proj-links"><a href="https://github.com/ymmiah/AI-Interview-Pro" target="_blank" rel="noopener">Repository</a></span></div>
+      </li><li class="proj">
+        <div class="proj-head"><h3><a href="https://github.com/ymmiah/GlowMint-Muse" target="_blank" rel="noopener">GlowMint-Muse</a></h3></div>
+        <p>GlowMint Muse — AI-based image generation.</p>
+        <div class="proj-foot"><span class="lang"><i></i>TypeScript</span><span class="proj-links"><a href="https://github.com/ymmiah/GlowMint-Muse" target="_blank" rel="noopener">Repository</a></span></div>
+      </li></ul>
+  </section>
+
+  <section class="dev-block" aria-labelledby="certH">
+    <h2 id="certH">Certifications &amp; training</h2>
+    <ul class="certs"><li><strong>AWS Academy Graduate — Generative AI Foundations</strong><span>Amazon Web Services (AWS) · training badge</span></li><li><strong>Microsoft Certified: Dynamics 365 Fundamentals</strong><span>Microsoft</span></li><li><strong>Cyber Security & Ethical Hacking</strong><span>Arena Web Security</span></li></ul>
+    <p class="muted small">As listed on his public LinkedIn profile.</p>
+  </section>
+
+  <section class="dev-block contact-block" aria-labelledby="contactH">
+    <h2 id="contactH">Connect</h2>
+    <p>Find Yasin on LinkedIn, GitHub and Kaggle, or visit his website. All handles are <code>ymmiah</code>.</p>
+    <div class="social large"><a class="btn btn-ghost social-btn" href="https://www.linkedin.com/in/ymmiah/" target="_blank" rel="noopener me" aria-label="LinkedIn" title="LinkedIn"><svg class="ico fill" viewBox="0 0 24 24" aria-hidden="true"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.35V9h3.41v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28ZM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13ZM7.12 20.45H3.56V9h3.56v11.45ZM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0Z"/></svg><span>LinkedIn</span></a><a class="btn btn-ghost social-btn" href="https://github.com/ymmiah" target="_blank" rel="noopener me" aria-label="GitHub" title="GitHub"><svg class="ico fill" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 .5a11.5 11.5 0 0 0-3.6 22.4c.6.1.8-.3.8-.6v-2c-3.2.7-3.9-1.5-3.9-1.5-.5-1.3-1.3-1.7-1.3-1.7-1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1 1.8 2.8 1.3 3.5 1 .1-.8.4-1.3.7-1.6-2.6-.3-5.3-1.3-5.3-5.7 0-1.3.5-2.3 1.2-3.1-.1-.3-.5-1.5.1-3.1 0 0 1-.3 3.2 1.2a11 11 0 0 1 5.8 0C17.3 4 18.3 4.3 18.3 4.3c.6 1.6.2 2.8.1 3.1.8.8 1.2 1.8 1.2 3.1 0 4.4-2.7 5.4-5.3 5.7.4.4.8 1.1.8 2.2v3.2c0 .3.2.7.8.6A11.5 11.5 0 0 0 12 .5Z"/></svg><span>GitHub</span></a><a class="btn btn-ghost social-btn" href="https://www.kaggle.com/ymmiah" target="_blank" rel="noopener me" aria-label="Kaggle" title="Kaggle"><svg class="ico fill" viewBox="0 0 24 24" aria-hidden="true"><path d="M18.83 23.65c-.03.23-.15.35-.37.35h-3.06a.6.6 0 0 1-.49-.24l-5.07-6.45-1.41 1.34v4.99c0 .24-.12.36-.36.36H5.68c-.24 0-.36-.12-.36-.36V.71c0-.24.12-.36.36-.36h2.39c.24 0 .36.12.36.36v14.37l6.13-6.2a.6.6 0 0 1 .46-.21h3.18c.15 0 .25.06.3.2.04.15.03.26-.04.34l-6.48 6.29 6.77 8.15c.1.1.12.22.08.34Z"/></svg><span>Kaggle</span></a><a class="btn btn-ghost social-btn" href="https://ymmiah.com" target="_blank" rel="noopener me" aria-label="Website" title="Website"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9.5"/><path d="M2.5 12h19M12 2.5c2.6 2.6 3.9 5.8 3.9 9.5s-1.3 6.9-3.9 9.5c-2.6-2.6-3.9-5.8-3.9-9.5S9.4 5.1 12 2.5Z"/></svg><span>Website</span></a></div>
+    <p class="small">Email (as published on his website): <a href="mailto:hello@ymmiah.com">hello@ymmiah.com</a></p>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <p><strong>DevOpsRef</strong> — DevOps &amp; Enterprise Automation Reference Library. Developed by <strong>Yasin Mohammed Miah — Student of BCU, BSc Computing Top-Up (Hons)</strong>.</p>
+    <p class="muted"><a href="./">Back to the library</a> · <a href="https://github.com/ymmiah/DevOpsRef">Source on GitHub</a> · Code: MIT licence.</p>
+  </div>
+</footer>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script>
+  document.getElementById("themeToggle").addEventListener("click", function () {
+    var cur = document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark";
+    document.documentElement.setAttribute("data-theme", cur);
+    try { localStorage.setItem("devopsref-theme", cur); } catch (e) {}
+  });
+</script>
+</body>
+</html>
