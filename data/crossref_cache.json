@@ -1,0 +1,3946 @@
+{
+ "10.1002/smr.1885": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Erich",
+    "given": "F. M. A."
+   },
+   {
+    "family": "Amrit",
+    "given": "C."
+   },
+   {
+    "family": "Daneva",
+    "given": "M."
+   }
+  ]
+ },
+ "10.1002/smr.2342": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Muñoz",
+    "given": "Mirna"
+   },
+   {
+    "family": "Rodríguez",
+    "given": "Mario Negrete"
+   }
+  ]
+ },
+ "10.1002/smr.2534": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Sánchez‐Cifo",
+    "given": "Miguel Ángel"
+   },
+   {
+    "family": "Bermejo",
+    "given": "Pablo"
+   },
+   {
+    "family": "Navarro",
+    "given": "Elena"
+   }
+  ]
+ },
+ "10.1002/smr.2733": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Kumar",
+    "given": "Ankur"
+   },
+   {
+    "family": "Nadeem",
+    "given": "Mohammad"
+   },
+   {
+    "family": "Shameem",
+    "given": "Mohammad"
+   }
+  ]
+ },
+ "10.1002/spe.3096": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Faustino",
+    "given": "João"
+   },
+   {
+    "family": "Adriano",
+    "given": "Daniel"
+   },
+   {
+    "family": "Amaro",
+    "given": "Ricardo"
+   },
+   {
+    "family": "Pereira",
+    "given": "Rubén"
+   },
+   {
+    "family": "da Silva",
+    "given": "Miguel Mira"
+   }
+  ]
+ },
+ "10.1002/spe.3169": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Fritzsch",
+    "given": "Jonas"
+   },
+   {
+    "family": "Bogner",
+    "given": "Justus"
+   },
+   {
+    "family": "Haug",
+    "given": "Markus"
+   },
+   {
+    "family": "Franco da Silva",
+    "given": "Ana Cristina"
+   },
+   {
+    "family": "Rubner",
+    "given": "Carolin"
+   },
+   {
+    "family": "Saft",
+    "given": "Matthias"
+   },
+   {
+    "family": "Sauer",
+    "given": "Horst"
+   },
+   {
+    "family": "Wagner",
+    "given": "Stefan"
+   }
+  ]
+ },
+ "10.1007/978-3-030-78098-2_7": {
+  "type": "book-chapter",
+  "author": [
+   {
+    "family": "Sallin",
+    "given": "Marc"
+   },
+   {
+    "family": "Kropp",
+    "given": "Martin"
+   },
+   {
+    "family": "Anslow",
+    "given": "Craig"
+   },
+   {
+    "family": "Quilty",
+    "given": "James W."
+   },
+   {
+    "family": "Meier",
+    "given": "Andreas"
+   }
+  ]
+ },
+ "10.1007/978-3-031-50974-2_34": {
+  "type": "book-chapter",
+  "author": [
+   {
+    "family": "Grohs",
+    "given": "Michael"
+   },
+   {
+    "family": "Abb",
+    "given": "Luka"
+   },
+   {
+    "family": "Elsayed",
+    "given": "Nourhan"
+   },
+   {
+    "family": "Rehse",
+    "given": "Jana-Rebecca"
+   }
+  ]
+ },
+ "10.1007/978-3-031-70797-1_18": {
+  "type": "book-chapter",
+  "author": [
+   {
+    "family": "Pallewatta",
+    "given": "Samodha"
+   },
+   {
+    "family": "Babar",
+    "given": "Muhammad Ali"
+   }
+  ]
+ },
+ "10.1007/978-3-319-18612-2_14": {
+  "type": "book-chapter",
+  "author": [
+   {
+    "family": "Smeds",
+    "given": "Jens"
+   },
+   {
+    "family": "Nybom",
+    "given": "Kristian"
+   },
+   {
+    "family": "Porres",
+    "given": "Ivan"
+   }
+  ]
+ },
+ "10.1007/978-3-319-18612-2_19": {
+  "type": "book-chapter",
+  "author": [
+   {
+    "family": "Lwakatare",
+    "given": "Lucy Ellen"
+   },
+   {
+    "family": "Kuvaja",
+    "given": "Pasi"
+   },
+   {
+    "family": "Oivo",
+    "given": "Markku"
+   }
+  ]
+ },
+ "10.1007/978-3-319-67383-7_2": {
+  "type": "book-chapter",
+  "author": [
+   {
+    "family": "Myrbakken",
+    "given": "Håvard"
+   },
+   {
+    "family": "Colomo-Palacios",
+    "given": "Ricardo"
+   }
+  ]
+ },
+ "10.1007/978-3-319-67425-4_12": {
+  "type": "book-chapter",
+  "author": [
+   {
+    "family": "Dragoni",
+    "given": "Nicola"
+   },
+   {
+    "family": "Giallorenzo",
+    "given": "Saverio"
+   },
+   {
+    "family": "Lafuente",
+    "given": "Alberto Lluch"
+   },
+   {
+    "family": "Mazzara",
+    "given": "Manuel"
+   },
+   {
+    "family": "Montesi",
+    "given": "Fabrizio"
+   },
+   {
+    "family": "Mustafin",
+    "given": "Ruslan"
+   },
+   {
+    "family": "Safina",
+    "given": "Larisa"
+   }
+  ]
+ },
+ "10.1007/978-3-662-56509-4": {
+  "type": "book",
+  "author": [
+   {
+    "family": "Dumas",
+    "given": "Marlon"
+   },
+   {
+    "family": "La Rosa",
+    "given": "Marcello"
+   },
+   {
+    "family": "Mendling",
+    "given": "Jan"
+   },
+   {
+    "family": "Reijers",
+    "given": "Hajo A."
+   }
+  ]
+ },
+ "10.1007/s10207-024-00909-w": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Bedoya",
+    "given": "Martin"
+   },
+   {
+    "family": "Palacios",
+    "given": "Sara"
+   },
+   {
+    "family": "Díaz-López",
+    "given": "Daniel"
+   },
+   {
+    "family": "Laverde",
+    "given": "Estefania"
+   },
+   {
+    "family": "Nespoli",
+    "given": "Pantaleone"
+   }
+  ]
+ },
+ "10.1007/s10207-024-00914-z": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Prates",
+    "given": "Luís"
+   },
+   {
+    "family": "Pereira",
+    "given": "Rúben"
+   }
+  ]
+ },
+ "10.1007/s10664-020-09901-z": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Mahdavi-Hezaveh",
+    "given": "Rezvan"
+   },
+   {
+    "family": "Dremann",
+    "given": "Jacob"
+   },
+   {
+    "family": "Williams",
+    "given": "Laurie"
+   }
+  ]
+ },
+ "10.1007/s10664-020-09919-3": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Díaz",
+    "given": "Jessica"
+   },
+   {
+    "family": "López-Fernández",
+    "given": "Daniel"
+   },
+   {
+    "family": "Pérez",
+    "given": "Jorge"
+   },
+   {
+    "family": "González-Prieto",
+    "given": "Ángel"
+   }
+  ]
+ },
+ "10.1007/s10664-021-10063-9": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Li",
+    "given": "Bowen"
+   },
+   {
+    "family": "Peng",
+    "given": "Xin"
+   },
+   {
+    "family": "Xiang",
+    "given": "Qilin"
+   },
+   {
+    "family": "Wang",
+    "given": "Hanzhang"
+   },
+   {
+    "family": "Xie",
+    "given": "Tao"
+   },
+   {
+    "family": "Sun",
+    "given": "Jun"
+   },
+   {
+    "family": "Liu",
+    "given": "Xuanzhe"
+   }
+  ]
+ },
+ "10.1007/s10664-021-10066-6": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Pan",
+    "given": "Rongqi"
+   },
+   {
+    "family": "Bagherzadeh",
+    "given": "Mojtaba"
+   },
+   {
+    "family": "Ghaleb",
+    "given": "Taher A."
+   },
+   {
+    "family": "Briand",
+    "given": "Lionel"
+   }
+  ]
+ },
+ "10.1007/s10664-021-10081-7": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Azuma",
+    "given": "Hideaki"
+   },
+   {
+    "family": "Matsumoto",
+    "given": "Shinsuke"
+   },
+   {
+    "family": "Kamei",
+    "given": "Yasutaka"
+   },
+   {
+    "family": "Kusumoto",
+    "given": "Shinji"
+   }
+  ]
+ },
+ "10.1007/s10664-022-10285-5": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Rostami Mazrae",
+    "given": "Pooya"
+   },
+   {
+    "family": "Mens",
+    "given": "Tom"
+   },
+   {
+    "family": "Golzadeh",
+    "given": "Mehdi"
+   },
+   {
+    "family": "Decan",
+    "given": "Alexandre"
+   }
+  ]
+ },
+ "10.1007/s10664-024-10471-7": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Rosa",
+    "given": "Giovanni"
+   },
+   {
+    "family": "Zappone",
+    "given": "Federico"
+   },
+   {
+    "family": "Scalabrino",
+    "given": "Simone"
+   },
+   {
+    "family": "Oliveto",
+    "given": "Rocco"
+   }
+  ]
+ },
+ "10.1007/s10664-024-10610-0": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Verdet",
+    "given": "Alexandre"
+   },
+   {
+    "family": "Hamdaqa",
+    "given": "Mohammad"
+   },
+   {
+    "family": "Silva",
+    "given": "Leuson Da"
+   },
+   {
+    "family": "Khomh",
+    "given": "Foutse"
+   }
+  ]
+ },
+ "10.1007/s10723-021-09551-5": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Bento",
+    "given": "Andre"
+   },
+   {
+    "family": "Correia",
+    "given": "Jaime"
+   },
+   {
+    "family": "Filipe",
+    "given": "Ricardo"
+   },
+   {
+    "family": "Araujo",
+    "given": "Filipe"
+   },
+   {
+    "family": "Cardoso",
+    "given": "Jorge"
+   }
+  ]
+ },
+ "10.1007/s10796-024-10473-2": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Fuentes-Quijada",
+    "given": "Guillermo"
+   },
+   {
+    "family": "Ruiz-González",
+    "given": "Francisco"
+   },
+   {
+    "family": "Caro",
+    "given": "Angélica"
+   }
+  ]
+ },
+ "10.1007/s11219-023-09619-3": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Lombardi",
+    "given": "Federico"
+   },
+   {
+    "family": "Fanton",
+    "given": "Alberto"
+   }
+  ]
+ },
+ "10.1007/s11227-021-03982-3": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Mondal",
+    "given": "Subrota Kumar"
+   },
+   {
+    "family": "Pan",
+    "given": "Rui"
+   },
+   {
+    "family": "Kabir",
+    "given": "H M Dipu"
+   },
+   {
+    "family": "Tian",
+    "given": "Tan"
+   },
+   {
+    "family": "Dai",
+    "given": "Hong-Ning"
+   }
+  ]
+ },
+ "10.1007/s12525-019-00365-8": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Hofmann",
+    "given": "Peter"
+   },
+   {
+    "family": "Samp",
+    "given": "Caroline"
+   },
+   {
+    "family": "Urbach",
+    "given": "Nils"
+   }
+  ]
+ },
+ "10.1007/s12525-021-00519-7": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Engel",
+    "given": "Christian"
+   },
+   {
+    "family": "Ebel",
+    "given": "Philipp"
+   },
+   {
+    "family": "Leimeister",
+    "given": "Jan Marco"
+   }
+  ]
+ },
+ "10.1007/s12599-018-0542-4": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "van der Aalst",
+    "given": "Wil M. P."
+   },
+   {
+    "family": "Bichler",
+    "given": "Martin"
+   },
+   {
+    "family": "Heinzl",
+    "given": "Armin"
+   }
+  ]
+ },
+ "10.1007/s42786-021-00030-9": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Villar",
+    "given": "Alice Saldanha"
+   },
+   {
+    "family": "Khan",
+    "given": "Nawaz"
+   }
+  ]
+ },
+ "10.1016/j.aei.2021.101246": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Ng",
+    "given": "Kam K.H."
+   },
+   {
+    "family": "Chen",
+    "given": "Chun-Hsien"
+   },
+   {
+    "family": "Lee",
+    "given": "C.K.M."
+   },
+   {
+    "family": "Jiao",
+    "given": "Jianxin (Roger)"
+   },
+   {
+    "family": "Yang",
+    "given": "Zhi-Xin"
+   }
+  ]
+ },
+ "10.1016/j.compind.2019.103162": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Syed",
+    "given": "Rehan"
+   },
+   {
+    "family": "Suriadi",
+    "given": "Suriadi"
+   },
+   {
+    "family": "Adams",
+    "given": "Michael"
+   },
+   {
+    "family": "Bandara",
+    "given": "Wasana"
+   },
+   {
+    "family": "Leemans",
+    "given": "Sander J.J."
+   },
+   {
+    "family": "Ouyang",
+    "given": "Chun"
+   },
+   {
+    "family": "ter Hofstede",
+    "given": "Arthur H.M."
+   },
+   {
+    "family": "van de Weerd",
+    "given": "Inge"
+   },
+   {
+    "family": "Wynn",
+    "given": "Moe Thandar"
+   },
+   {
+    "family": "Reijers",
+    "given": "Hajo A."
+   }
+  ]
+ },
+ "10.1016/j.csi.2023.103767": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Grande",
+    "given": "Rubén"
+   },
+   {
+    "family": "Vizcaíno",
+    "given": "Aurora"
+   },
+   {
+    "family": "García",
+    "given": "Félix O."
+   }
+  ]
+ },
+ "10.1016/j.future.2021.04.001": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Simonsson",
+    "given": "Jesper"
+   },
+   {
+    "family": "Zhang",
+    "given": "Long"
+   },
+   {
+    "family": "Morin",
+    "given": "Brice"
+   },
+   {
+    "family": "Baudry",
+    "given": "Benoit"
+   },
+   {
+    "family": "Monperrus",
+    "given": "Martin"
+   }
+  ]
+ },
+ "10.1016/j.im.2023.103809": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Amaro",
+    "given": "Ricardo"
+   },
+   {
+    "family": "Pereira",
+    "given": "Rúben"
+   },
+   {
+    "family": "da Silva",
+    "given": "Miguel Mira"
+   }
+  ]
+ },
+ "10.1016/j.infoandorg.2023.100474": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Wiedemann",
+    "given": "Anna"
+   },
+   {
+    "family": "Wiesche",
+    "given": "Manuel"
+   },
+   {
+    "family": "Gewald",
+    "given": "Heiko"
+   },
+   {
+    "family": "Krcmar",
+    "given": "Helmut"
+   }
+  ]
+ },
+ "10.1016/j.infsof.2016.10.001": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Laukkanen",
+    "given": "Eero"
+   },
+   {
+    "family": "Itkonen",
+    "given": "Juha"
+   },
+   {
+    "family": "Lassenius",
+    "given": "Casper"
+   }
+  ]
+ },
+ "10.1016/j.infsof.2018.12.004": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Rahman",
+    "given": "Akond"
+   },
+   {
+    "family": "Mahdavi-Hezaveh",
+    "given": "Rezvan"
+   },
+   {
+    "family": "Williams",
+    "given": "Laurie"
+   }
+  ]
+ },
+ "10.1016/j.infsof.2019.04.013": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Rahman",
+    "given": "Akond"
+   },
+   {
+    "family": "Williams",
+    "given": "Laurie"
+   }
+  ]
+ },
+ "10.1016/j.infsof.2021.106593": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Kumara",
+    "given": "Indika"
+   },
+   {
+    "family": "Garriga",
+    "given": "Martín"
+   },
+   {
+    "family": "Romeu",
+    "given": "Angel Urbano"
+   },
+   {
+    "family": "Di Nucci",
+    "given": "Dario"
+   },
+   {
+    "family": "Palomba",
+    "given": "Fabio"
+   },
+   {
+    "family": "Tamburri",
+    "given": "Damian Andrew"
+   },
+   {
+    "family": "van den Heuvel",
+    "given": "Willem-Jan"
+   }
+  ]
+ },
+ "10.1016/j.infsof.2021.106672": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Leite",
+    "given": "Leonardo"
+   },
+   {
+    "family": "Pinto",
+    "given": "Gustavo"
+   },
+   {
+    "family": "Kon",
+    "given": "Fabio"
+   },
+   {
+    "family": "Meirelles",
+    "given": "Paulo"
+   }
+  ]
+ },
+ "10.1016/j.infsof.2021.106700": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Rajapakse",
+    "given": "Roshan N."
+   },
+   {
+    "family": "Zahedi",
+    "given": "Mansooreh"
+   },
+   {
+    "family": "Babar",
+    "given": "M. Ali"
+   },
+   {
+    "family": "Shen",
+    "given": "Haifeng"
+   }
+  ]
+ },
+ "10.1016/j.infsof.2022.106894": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Akbar",
+    "given": "Muhammad Azeem"
+   },
+   {
+    "family": "Smolander",
+    "given": "Kari"
+   },
+   {
+    "family": "Mahmood",
+    "given": "Sajjad"
+   },
+   {
+    "family": "Alsanad",
+    "given": "Ahmed"
+   }
+  ]
+ },
+ "10.1016/j.infsof.2023.107150": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Azad",
+    "given": "Nasreen"
+   },
+   {
+    "family": "Hyrynsalmi",
+    "given": "Sami"
+   }
+  ]
+ },
+ "10.1016/j.infsof.2023.107244": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Tanzil",
+    "given": "Minaoar Hossain"
+   },
+   {
+    "family": "Sarker",
+    "given": "Masud"
+   },
+   {
+    "family": "Uddin",
+    "given": "Gias"
+   },
+   {
+    "family": "Iqbal",
+    "given": "Anindya"
+   }
+  ]
+ },
+ "10.1016/j.infsof.2023.107392": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Nogueira",
+    "given": "Ana Filipa"
+   },
+   {
+    "family": "Zenha-Rela",
+    "given": "Mário"
+   }
+  ]
+ },
+ "10.1016/j.infsof.2024.107569": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Aouni",
+    "given": "Fatiha El"
+   },
+   {
+    "family": "Moumane",
+    "given": "Karima"
+   },
+   {
+    "family": "Idri",
+    "given": "Ali"
+   },
+   {
+    "family": "Najib",
+    "given": "Mehdi"
+   },
+   {
+    "family": "Jan",
+    "given": "Saeed Ullah"
+   }
+  ]
+ },
+ "10.1016/j.infsof.2025.107733": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Zarour",
+    "given": "Mohammad"
+   },
+   {
+    "family": "Alzabut",
+    "given": "Hamza"
+   },
+   {
+    "family": "Al-Sarayreh",
+    "given": "Khalid T."
+   }
+  ]
+ },
+ "10.1016/j.jik.2024.100637": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Amrit",
+    "given": "Chintan"
+   },
+   {
+    "family": "Narayanappa",
+    "given": "Ashwini Kolar"
+   }
+  ]
+ },
+ "10.1016/j.jss.2013.08.032": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Ståhl",
+    "given": "Daniel"
+   },
+   {
+    "family": "Bosch",
+    "given": "Jan"
+   }
+  ]
+ },
+ "10.1016/j.jss.2015.06.063": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Fitzgerald",
+    "given": "Brian"
+   },
+   {
+    "family": "Stol",
+    "given": "Klaas-Jan"
+   }
+  ]
+ },
+ "10.1016/j.jss.2015.12.015": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Rodríguez",
+    "given": "Pilar"
+   },
+   {
+    "family": "Haghighatkhah",
+    "given": "Alireza"
+   },
+   {
+    "family": "Lwakatare",
+    "given": "Lucy Ellen"
+   },
+   {
+    "family": "Teppola",
+    "given": "Susanna"
+   },
+   {
+    "family": "Suomalainen",
+    "given": "Tanja"
+   },
+   {
+    "family": "Eskeli",
+    "given": "Juho"
+   },
+   {
+    "family": "Karvonen",
+    "given": "Teemu"
+   },
+   {
+    "family": "Kuvaja",
+    "given": "Pasi"
+   },
+   {
+    "family": "Verner",
+    "given": "June M."
+   },
+   {
+    "family": "Oivo",
+    "given": "Markku"
+   }
+  ]
+ },
+ "10.1016/j.jss.2023.111906": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Giamattei",
+    "given": "L."
+   },
+   {
+    "family": "Guerriero",
+    "given": "A."
+   },
+   {
+    "family": "Pietrantuono",
+    "given": "R."
+   },
+   {
+    "family": "Russo",
+    "given": "S."
+   },
+   {
+    "family": "Malavolta",
+    "given": "I."
+   },
+   {
+    "family": "Islam",
+    "given": "T."
+   },
+   {
+    "family": "Dînga",
+    "given": "M."
+   },
+   {
+    "family": "Koziolek",
+    "given": "A."
+   },
+   {
+    "family": "Singh",
+    "given": "S."
+   },
+   {
+    "family": "Armbruster",
+    "given": "M."
+   },
+   {
+    "family": "Gutierrez-Martinez",
+    "given": "J.M."
+   },
+   {
+    "family": "Caro-Alvaro",
+    "given": "S."
+   },
+   {
+    "family": "Rodriguez",
+    "given": "D."
+   },
+   {
+    "family": "Weber",
+    "given": "S."
+   },
+   {
+    "family": "Henss",
+    "given": "J."
+   },
+   {
+    "family": "Vogelin",
+    "given": "E. Fernandez"
+   },
+   {
+    "family": "Panojo",
+    "given": "F. Simon"
+   }
+  ]
+ },
+ "10.1016/j.jss.2024.112011": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Quin",
+    "given": "Federico"
+   },
+   {
+    "family": "Weyns",
+    "given": "Danny"
+   },
+   {
+    "family": "Galster",
+    "given": "Matthias"
+   },
+   {
+    "family": "Silva",
+    "given": "Camila Costa"
+   }
+  ]
+ },
+ "10.1016/j.jss.2024.112063": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Zhao",
+    "given": "Xiaofan"
+   },
+   {
+    "family": "Clear",
+    "given": "Tony"
+   },
+   {
+    "family": "Lal",
+    "given": "Ramesh"
+   }
+  ]
+ },
+ "10.1016/j.jss.2024.112331": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Zhang",
+    "given": "Xinrui"
+   },
+   {
+    "family": "Zhao",
+    "given": "Pincan"
+   },
+   {
+    "family": "Jaskolka",
+    "given": "Jason"
+   }
+  ]
+ },
+ "10.1016/j.procs.2021.01.104": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Ribeiro",
+    "given": "Jorge"
+   },
+   {
+    "family": "Lima",
+    "given": "Rui"
+   },
+   {
+    "family": "Eckhardt",
+    "given": "Tiago"
+   },
+   {
+    "family": "Paiva",
+    "given": "Sara"
+   }
+  ]
+ },
+ "10.1016/j.procs.2023.01.287": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Moreira",
+    "given": "Sílvia"
+   },
+   {
+    "family": "Mamede",
+    "given": "Henrique S."
+   },
+   {
+    "family": "Santos",
+    "given": "Arnaldo"
+   }
+  ]
+ },
+ "10.1016/j.pursup.2021.100718": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Flechsig",
+    "given": "Christian"
+   },
+   {
+    "family": "Anslinger",
+    "given": "Franziska"
+   },
+   {
+    "family": "Lasch",
+    "given": "Rainer"
+   }
+  ]
+ },
+ "10.1016/j.sintl.2021.100124": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Haleem",
+    "given": "Abid"
+   },
+   {
+    "family": "Javaid",
+    "given": "Mohd"
+   },
+   {
+    "family": "Singh",
+    "given": "Ravi Pratap"
+   },
+   {
+    "family": "Rab",
+    "given": "Shanay"
+   },
+   {
+    "family": "Suman",
+    "given": "Rajiv"
+   }
+  ]
+ },
+ "10.1057/s41266-016-0016-9": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Willcocks",
+    "given": "Leslie"
+   },
+   {
+    "family": "Lacity",
+    "given": "Mary"
+   },
+   {
+    "family": "Craig",
+    "given": "Andrew"
+   }
+  ]
+ },
+ "10.1080/0960085x.2021.1997100": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Gall",
+    "given": "Michael"
+   },
+   {
+    "family": "Pigni",
+    "given": "Federico"
+   }
+  ]
+ },
+ "10.1080/17517575.2021.1986862": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Wewerka",
+    "given": "Judith"
+   },
+   {
+    "family": "Reichert",
+    "given": "Manfred"
+   }
+  ]
+ },
+ "10.1080/23311916.2023.2251758": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Jha",
+    "given": "Amitkumar V."
+   },
+   {
+    "family": "Teri",
+    "given": "Riya"
+   },
+   {
+    "family": "Verma",
+    "given": "Subra"
+   },
+   {
+    "family": "Tarafder",
+    "given": "Susmita"
+   },
+   {
+    "family": "Bhowmik",
+    "given": "Wriddhi"
+   },
+   {
+    "family": "Kumar Mishra",
+    "given": "Sunil"
+   },
+   {
+    "family": "Appasani",
+    "given": "Bhargav"
+   },
+   {
+    "family": "Srinivasulu",
+    "given": "Avireni"
+   },
+   {
+    "family": "Philibert",
+    "given": "Nsengiyumva"
+   }
+  ]
+ },
+ "10.1108/bij-01-2021-0033": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Pramod",
+    "given": "Dhanya"
+   }
+  ]
+ },
+ "10.1108/bpmj-06-2023-0465": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Schlegel",
+    "given": "Dennis"
+   },
+   {
+    "family": "Rosenberg",
+    "given": "Bernhard"
+   },
+   {
+    "family": "Fundanovic",
+    "given": "Oliver"
+   },
+   {
+    "family": "Kraus",
+    "given": "Patrick"
+   }
+  ]
+ },
+ "10.1108/k-04-2024-0989": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Ozdenizci Kose",
+    "given": "Busra"
+   }
+  ]
+ },
+ "10.1109/access.2017.2685629": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Shahin",
+    "given": "Mojtaba"
+   },
+   {
+    "family": "Ali Babar",
+    "given": "Muhammad"
+   },
+   {
+    "family": "Zhu",
+    "given": "Liming"
+   }
+  ]
+ },
+ "10.1109/access.2021.3137671": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Reis",
+    "given": "David"
+   },
+   {
+    "family": "Piedade",
+    "given": "Bruno"
+   },
+   {
+    "family": "Correia",
+    "given": "Filipe F."
+   },
+   {
+    "family": "Dias",
+    "given": "Joao Pedro"
+   },
+   {
+    "family": "Aguiar",
+    "given": "Ademar"
+   }
+  ]
+ },
+ "10.1109/access.2022.3145970": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Khan",
+    "given": "Muhammad Shoaib"
+   },
+   {
+    "family": "Khan",
+    "given": "Abudul Wahid"
+   },
+   {
+    "family": "Khan",
+    "given": "Faheem"
+   },
+   {
+    "family": "Khan",
+    "given": "Muhammad Adnan"
+   },
+   {
+    "family": "Whangbo",
+    "given": "Taeg Keun"
+   }
+  ]
+ },
+ "10.1109/access.2022.3152803": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Blinowski",
+    "given": "Grzegorz"
+   },
+   {
+    "family": "Ojdowska",
+    "given": "Anna"
+   },
+   {
+    "family": "Przybylek",
+    "given": "Adam"
+   }
+  ]
+ },
+ "10.1109/access.2022.3171803": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Arvanitou",
+    "given": "Elvira Maria"
+   },
+   {
+    "family": "Ampatzoglou",
+    "given": "Apostolos"
+   },
+   {
+    "family": "Bibi",
+    "given": "Stamatia"
+   },
+   {
+    "family": "Chatzigeorgiou",
+    "given": "Alexander"
+   },
+   {
+    "family": "Deligiannis",
+    "given": "Ignatios"
+   }
+  ]
+ },
+ "10.1109/access.2022.3174094": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Akbar",
+    "given": "Muhammad Azeem"
+   },
+   {
+    "family": "Rafi",
+    "given": "Saima"
+   },
+   {
+    "family": "Alsanad",
+    "given": "Abeer Abdulaziz"
+   },
+   {
+    "family": "Qadri",
+    "given": "Syed Furqan"
+   },
+   {
+    "family": "Alsanad",
+    "given": "Ahmed"
+   },
+   {
+    "family": "Alothaim",
+    "given": "Abdulrahman"
+   }
+  ]
+ },
+ "10.1109/access.2022.3193102": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Usman",
+    "given": "Muhammad"
+   },
+   {
+    "family": "Ferlin",
+    "given": "Simone"
+   },
+   {
+    "family": "Brunstrom",
+    "given": "Anna"
+   },
+   {
+    "family": "Taheri",
+    "given": "Javid"
+   }
+  ]
+ },
+ "10.1109/access.2023.3237550": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Sarwar",
+    "given": "Muhammad Imran"
+   },
+   {
+    "family": "Abbas",
+    "given": "Qaiser"
+   },
+   {
+    "family": "Alyas",
+    "given": "Tahir"
+   },
+   {
+    "family": "Alzahrani",
+    "given": "Ali"
+   },
+   {
+    "family": "Alghamdi",
+    "given": "Turki"
+   },
+   {
+    "family": "Alsaawy",
+    "given": "Yazed"
+   }
+  ]
+ },
+ "10.1109/access.2023.3262138": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Kreuzberger",
+    "given": "Dominik"
+   },
+   {
+    "family": "Kühl",
+    "given": "Niklas"
+   },
+   {
+    "family": "Hirschl",
+    "given": "Sebastian"
+   }
+  ]
+ },
+ "10.1109/access.2023.3281860": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Kosińska",
+    "given": "Joanna"
+   },
+   {
+    "family": "Baliś",
+    "given": "Bartosz"
+   },
+   {
+    "family": "Konieczny",
+    "given": "Marek"
+   },
+   {
+    "family": "Malawski",
+    "given": "Maciej"
+   },
+   {
+    "family": "Zieliński",
+    "given": "Sławomir"
+   }
+  ]
+ },
+ "10.1109/access.2023.3305687": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Velepucha",
+    "given": "Victor"
+   },
+   {
+    "family": "Flores",
+    "given": "Pamela"
+   }
+  ]
+ },
+ "10.1109/access.2023.3325325": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Khattak",
+    "given": "Kausar-Nasreen"
+   },
+   {
+    "family": "Qayyum",
+    "given": "Faiza"
+   },
+   {
+    "family": "Naqvi",
+    "given": "Syed Shehryar Ali"
+   },
+   {
+    "family": "Mehmood",
+    "given": "Asif"
+   },
+   {
+    "family": "Kim",
+    "given": "Jungsuk"
+   }
+  ]
+ },
+ "10.1109/access.2024.3406548": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Moreira",
+    "given": "Silvia"
+   },
+   {
+    "family": "Mamede",
+    "given": "Henrique S."
+   },
+   {
+    "family": "Santos",
+    "given": "Arnaldo"
+   }
+  ]
+ },
+ "10.1109/access.2025.3560911": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Toprani",
+    "given": "Dheer"
+   },
+   {
+    "family": "Madisetti",
+    "given": "Vijay K."
+   }
+  ]
+ },
+ "10.1109/access.2025.3562125": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Faseeha",
+    "given": "Ummay"
+   },
+   {
+    "family": "Jamil Syed",
+    "given": "Hassan"
+   },
+   {
+    "family": "Samad",
+    "given": "Fahad"
+   },
+   {
+    "family": "Zehra",
+    "given": "Sehar"
+   },
+   {
+    "family": "Ahmed",
+    "given": "Hamza"
+   }
+  ]
+ },
+ "10.1109/agile.2008.42": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Debois",
+    "given": "Patrick"
+   }
+  ]
+ },
+ "10.1109/bigdata.2017.8258038": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Breck",
+    "given": "Eric"
+   },
+   {
+    "family": "Cai",
+    "given": "Shanqing"
+   },
+   {
+    "family": "Nielsen",
+    "given": "Eric"
+   },
+   {
+    "family": "Salib",
+    "given": "Michael"
+   },
+   {
+    "family": "Sculley",
+    "given": "D."
+   }
+  ]
+ },
+ "10.1109/icoiact53268.2021.9563984": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Ramadoni",
+    "given": ""
+   },
+   {
+    "family": "Utami",
+    "given": "Ema"
+   },
+   {
+    "family": "Fatta",
+    "given": "Hanif Al"
+   }
+  ]
+ },
+ "10.1109/icse-companion.2019.00023": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Dang",
+    "given": "Yingnong"
+   },
+   {
+    "family": "Lin",
+    "given": "Qingwei"
+   },
+   {
+    "family": "Huang",
+    "given": "Peng"
+   }
+  ]
+ },
+ "10.1109/icse-fose59343.2023.00008": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Fan",
+    "given": "Angela"
+   },
+   {
+    "family": "Gokkaya",
+    "given": "Beliz"
+   },
+   {
+    "family": "Harman",
+    "given": "Mark"
+   },
+   {
+    "family": "Lyubarskiy",
+    "given": "Mitya"
+   },
+   {
+    "family": "Sengupta",
+    "given": "Shubho"
+   },
+   {
+    "family": "Yoo",
+    "given": "Shin"
+   },
+   {
+    "family": "Zhang",
+    "given": "Jie M."
+   }
+  ]
+ },
+ "10.1109/icse-seet52601.2021.00024": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Alves",
+    "given": "Isaque"
+   },
+   {
+    "family": "Rocha",
+    "given": "Carla"
+   }
+  ]
+ },
+ "10.1109/icse-seet55299.2022.9794182": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Fernandes",
+    "given": "Marcelo"
+   },
+   {
+    "family": "Ferino",
+    "given": "Samuel"
+   },
+   {
+    "family": "Fernandes",
+    "given": "Anny"
+   },
+   {
+    "family": "Kulesza",
+    "given": "Uira"
+   },
+   {
+    "family": "Aranha",
+    "given": "Eduardo"
+   },
+   {
+    "family": "Treude",
+    "given": "Christoph"
+   }
+  ]
+ },
+ "10.1109/icse-seet58685.2023.00022": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Ferino",
+    "given": "Samuel"
+   },
+   {
+    "family": "Fernandes",
+    "given": "Marcelo"
+   },
+   {
+    "family": "Cirilo",
+    "given": "Elder"
+   },
+   {
+    "family": "Agnez",
+    "given": "Lucas"
+   },
+   {
+    "family": "Batista",
+    "given": "Bruno"
+   },
+   {
+    "family": "Kulesza",
+    "given": "Uirá"
+   },
+   {
+    "family": "Aranha",
+    "given": "Eduardo"
+   },
+   {
+    "family": "Treude",
+    "given": "Christoph"
+   }
+  ]
+ },
+ "10.1109/icse-seip.2019.00042": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Amershi",
+    "given": "Saleema"
+   },
+   {
+    "family": "Begel",
+    "given": "Andrew"
+   },
+   {
+    "family": "Bird",
+    "given": "Christian"
+   },
+   {
+    "family": "DeLine",
+    "given": "Robert"
+   },
+   {
+    "family": "Gall",
+    "given": "Harald"
+   },
+   {
+    "family": "Kamar",
+    "given": "Ece"
+   },
+   {
+    "family": "Nagappan",
+    "given": "Nachiappan"
+   },
+   {
+    "family": "Nushi",
+    "given": "Besmira"
+   },
+   {
+    "family": "Zimmermann",
+    "given": "Thomas"
+   }
+  ]
+ },
+ "10.1109/icse.2019.00033": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Rahman",
+    "given": "Akond"
+   },
+   {
+    "family": "Parnin",
+    "given": "Chris"
+   },
+   {
+    "family": "Williams",
+    "given": "Laurie"
+   }
+  ]
+ },
+ "10.1109/icse48619.2023.00141": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Basak",
+    "given": "Setu Kumar"
+   },
+   {
+    "family": "Neil",
+    "given": "Lorenzo"
+   },
+   {
+    "family": "Reaves",
+    "given": "Bradley"
+   },
+   {
+    "family": "Williams",
+    "given": "Laurie"
+   }
+  ]
+ },
+ "10.1109/icse48619.2023.00149": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Ahmed",
+    "given": "Toufique"
+   },
+   {
+    "family": "Ghosh",
+    "given": "Supriyo"
+   },
+   {
+    "family": "Bansal",
+    "given": "Chetan"
+   },
+   {
+    "family": "Zimmermann",
+    "given": "Thomas"
+   },
+   {
+    "family": "Zhang",
+    "given": "Xuchao"
+   },
+   {
+    "family": "Rajmohan",
+    "given": "Saravan"
+   }
+  ]
+ },
+ "10.1109/icse48619.2023.00219": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Xia",
+    "given": "Boming"
+   },
+   {
+    "family": "Bi",
+    "given": "Tingting"
+   },
+   {
+    "family": "Xing",
+    "given": "Zhenchang"
+   },
+   {
+    "family": "Lu",
+    "given": "Qinghua"
+   },
+   {
+    "family": "Zhu",
+    "given": "Liming"
+   }
+  ]
+ },
+ "10.1109/icsme52107.2021.00048": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Zampetti",
+    "given": "Fiorella"
+   },
+   {
+    "family": "Geremia",
+    "given": "Salvatore"
+   },
+   {
+    "family": "Bavota",
+    "given": "Gabriele"
+   },
+   {
+    "family": "Di Penta",
+    "given": "Massimiliano"
+   }
+  ]
+ },
+ "10.1109/icsme55016.2022.00029": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Decan",
+    "given": "Alexandre"
+   },
+   {
+    "family": "Mens",
+    "given": "Tom"
+   },
+   {
+    "family": "Mazrae",
+    "given": "Pooya Rostami"
+   },
+   {
+    "family": "Golzadeh",
+    "given": "Mehdi"
+   }
+  ]
+ },
+ "10.1109/icsme58846.2023.00018": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Wilkes",
+    "given": "Brennan"
+   },
+   {
+    "family": "Milani",
+    "given": "Alessandra Maciel Paz"
+   },
+   {
+    "family": "Storey",
+    "given": "Margaret-Anne"
+   }
+  ]
+ },
+ "10.1109/ispass.2015.7095802": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Felter",
+    "given": "Wes"
+   },
+   {
+    "family": "Ferreira",
+    "given": "Alexandre"
+   },
+   {
+    "family": "Rajamony",
+    "given": "Ram"
+   },
+   {
+    "family": "Rubio",
+    "given": "Juan"
+   }
+  ]
+ },
+ "10.1109/jproc.2024.3353855": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Deng",
+    "given": "Shuiguang"
+   },
+   {
+    "family": "Zhao",
+    "given": "Hailiang"
+   },
+   {
+    "family": "Huang",
+    "given": "Binbin"
+   },
+   {
+    "family": "Zhang",
+    "given": "Cheng"
+   },
+   {
+    "family": "Chen",
+    "given": "Feiyi"
+   },
+   {
+    "family": "Deng",
+    "given": "Yinuo"
+   },
+   {
+    "family": "Yin",
+    "given": "Jianwei"
+   },
+   {
+    "family": "Dustdar",
+    "given": "Schahram"
+   },
+   {
+    "family": "Zomaya",
+    "given": "Albert Y."
+   }
+  ]
+ },
+ "10.1109/mcc.2014.51": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Bernstein",
+    "given": "David"
+   }
+  ]
+ },
+ "10.1109/mcc.2015.51": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Pahl",
+    "given": "Claus"
+   }
+  ]
+ },
+ "10.1109/mic.2013.25": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Feitelson",
+    "given": "Dror G."
+   },
+   {
+    "family": "Frachtenberg",
+    "given": "Eitan"
+   },
+   {
+    "family": "Beck",
+    "given": "Kent L."
+   }
+  ]
+ },
+ "10.1109/ms.2015.27": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Chen",
+    "given": "Lianping"
+   }
+  ]
+ },
+ "10.1109/ms.2015.50": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Leppanen",
+    "given": "Marko"
+   },
+   {
+    "family": "Makinen",
+    "given": "Simo"
+   },
+   {
+    "family": "Pagels",
+    "given": "Max"
+   },
+   {
+    "family": "Eloranta",
+    "given": "Veli-Pekka"
+   },
+   {
+    "family": "Itkonen",
+    "given": "Juha"
+   },
+   {
+    "family": "Mantyla",
+    "given": "Mika V."
+   },
+   {
+    "family": "Mannisto",
+    "given": "Tomi"
+   }
+  ]
+ },
+ "10.1109/ms.2016.60": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Basiri",
+    "given": "Ali"
+   },
+   {
+    "family": "Behnam",
+    "given": "Niosha"
+   },
+   {
+    "family": "de Rooij",
+    "given": "Ruud"
+   },
+   {
+    "family": "Hochstein",
+    "given": "Lorin"
+   },
+   {
+    "family": "Kosewski",
+    "given": "Luke"
+   },
+   {
+    "family": "Reynolds",
+    "given": "Justin"
+   },
+   {
+    "family": "Rosenthal",
+    "given": "Casey"
+   }
+  ]
+ },
+ "10.1109/ms.2016.64": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Balalaie",
+    "given": "Armin"
+   },
+   {
+    "family": "Heydarnoori",
+    "given": "Abbas"
+   },
+   {
+    "family": "Jamshidi",
+    "given": "Pooyan"
+   }
+  ]
+ },
+ "10.1109/ms.2016.68": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Ebert",
+    "given": "Christof"
+   },
+   {
+    "family": "Gallardo",
+    "given": "Gorka"
+   },
+   {
+    "family": "Hernantes",
+    "given": "Josune"
+   },
+   {
+    "family": "Serrano",
+    "given": "Nicolas"
+   }
+  ]
+ },
+ "10.1109/ms.2016.81": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Zhu",
+    "given": "Liming"
+   },
+   {
+    "family": "Bass",
+    "given": "Len"
+   },
+   {
+    "family": "Champlin-Scharff",
+    "given": "George"
+   }
+  ]
+ },
+ "10.1109/ms.2021.3119106": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Beetz",
+    "given": "Florian"
+   },
+   {
+    "family": "Harrer",
+    "given": "Simon"
+   }
+  ]
+ },
+ "10.1109/msec.2021.3094726": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Minna",
+    "given": "Francesco"
+   },
+   {
+    "family": "Blaise",
+    "given": "Agathe"
+   },
+   {
+    "family": "Rebecchi",
+    "given": "Filippo"
+   },
+   {
+    "family": "Chandrasekaran",
+    "given": "Balakrishnan"
+   },
+   {
+    "family": "Massacci",
+    "given": "Fabio"
+   }
+  ]
+ },
+ "10.1109/msec.2022.3142338": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Enck",
+    "given": "William"
+   },
+   {
+    "family": "Williams",
+    "given": "Laurie"
+   }
+  ]
+ },
+ "10.1109/msr59073.2023.00079": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Opdebeeck",
+    "given": "Ruben"
+   },
+   {
+    "family": "Zerouali",
+    "given": "Ahmed"
+   },
+   {
+    "family": "De Roover",
+    "given": "Coen"
+   }
+  ]
+ },
+ "10.1109/saner53432.2022.00017": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Lomio",
+    "given": "Francesco"
+   },
+   {
+    "family": "Codabux",
+    "given": "Zadia"
+   },
+   {
+    "family": "Birtch",
+    "given": "Dale"
+   },
+   {
+    "family": "Hopkins",
+    "given": "Dale"
+   },
+   {
+    "family": "Taibi",
+    "given": "Davide"
+   }
+  ]
+ },
+ "10.1109/saner53432.2022.00084": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Golzadeh",
+    "given": "Mehdi"
+   },
+   {
+    "family": "Decan",
+    "given": "Alexandre"
+   },
+   {
+    "family": "Mens",
+    "given": "Tom"
+   }
+  ]
+ },
+ "10.1109/seaa.2012.54": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Olsson",
+    "given": "Helena Holmstrom"
+   },
+   {
+    "family": "Alahyari",
+    "given": "Hiva"
+   },
+   {
+    "family": "Bosch",
+    "given": "Jan"
+   }
+  ]
+ },
+ "10.1109/seaa53835.2021.00050": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "John",
+    "given": "Meenu Mary"
+   },
+   {
+    "family": "Olsson",
+    "given": "Helena Holmstrom"
+   },
+   {
+    "family": "Bosch",
+    "given": "Jan"
+   }
+  ]
+ },
+ "10.1109/secdev51306.2021.00024": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Rahman",
+    "given": "Akond"
+   },
+   {
+    "family": "Barsha",
+    "given": "Farhat Lamia"
+   },
+   {
+    "family": "Morrison",
+    "given": "Patrick"
+   }
+  ]
+ },
+ "10.1109/secdev61143.2024.00008": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Low",
+    "given": "En"
+   },
+   {
+    "family": "Cheh",
+    "given": "Carmen"
+   },
+   {
+    "family": "Chen",
+    "given": "Binbin"
+   }
+  ]
+ },
+ "10.1109/sose52839.2021.00020": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Throner",
+    "given": "Stefan"
+   },
+   {
+    "family": "Hutter",
+    "given": "Heiko"
+   },
+   {
+    "family": "Sanger",
+    "given": "Niklas"
+   },
+   {
+    "family": "Schneider",
+    "given": "Michael"
+   },
+   {
+    "family": "Hanselmann",
+    "given": "Simon"
+   },
+   {
+    "family": "Petrovic",
+    "given": "Patrick"
+   },
+   {
+    "family": "Abeck",
+    "given": "Sebastian"
+   }
+  ]
+ },
+ "10.1109/sp46215.2023.10179320": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Fourné",
+    "given": "Marcel"
+   },
+   {
+    "family": "Wermke",
+    "given": "Dominik"
+   },
+   {
+    "family": "Enck",
+    "given": "William"
+   },
+   {
+    "family": "Fahl",
+    "given": "Sascha"
+   },
+   {
+    "family": "Acar",
+    "given": "Yasemin"
+   }
+  ]
+ },
+ "10.1109/tse.2021.3051492": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Dalla Palma",
+    "given": "Stefano"
+   },
+   {
+    "family": "Di Nucci",
+    "given": "Dario"
+   },
+   {
+    "family": "Palomba",
+    "given": "Fabio"
+   },
+   {
+    "family": "Tamburri",
+    "given": "Damian A."
+   }
+  ]
+ },
+ "10.1109/tse.2021.3064953": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Elazhary",
+    "given": "Omar"
+   },
+   {
+    "family": "Werner",
+    "given": "Colin"
+   },
+   {
+    "family": "Li",
+    "given": "Ze Shi"
+   },
+   {
+    "family": "Lowlind",
+    "given": "Derek"
+   },
+   {
+    "family": "Ernst",
+    "given": "Neil A."
+   },
+   {
+    "family": "Storey",
+    "given": "Margaret-Anne"
+   }
+  ]
+ },
+ "10.1109/tse.2021.3069039": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Edison",
+    "given": "Henry"
+   },
+   {
+    "family": "Wang",
+    "given": "Xiaofeng"
+   },
+   {
+    "family": "Conboy",
+    "given": "Kieran"
+   }
+  ]
+ },
+ "10.1109/tse.2021.3092705": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Perez",
+    "given": "Jorge E."
+   },
+   {
+    "family": "Gonzalez-Prieto",
+    "given": "Angel"
+   },
+   {
+    "family": "Diaz",
+    "given": "Jessica"
+   },
+   {
+    "family": "Lopez-Fernandez",
+    "given": "Daniel"
+   },
+   {
+    "family": "Garcia-Martin",
+    "given": "Javier"
+   },
+   {
+    "family": "Yague",
+    "given": "Agustin"
+   }
+  ]
+ },
+ "10.1109/tse.2021.3102982": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Lopez-Fernandez",
+    "given": "Daniel"
+   },
+   {
+    "family": "Diaz",
+    "given": "Jessica"
+   },
+   {
+    "family": "Garcia",
+    "given": "Javier"
+   },
+   {
+    "family": "Perez",
+    "given": "Jorge"
+   },
+   {
+    "family": "Gonzalez-Prieto",
+    "given": "Angel"
+   }
+  ]
+ },
+ "10.1109/tse.2022.3166626": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Amaro",
+    "given": "Ricardo"
+   },
+   {
+    "family": "Pereira",
+    "given": "Ruben"
+   },
+   {
+    "family": "da Silva",
+    "given": "Miguel Mira"
+   }
+  ]
+ },
+ "10.1109/tse.2022.3175660": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Greiler",
+    "given": "Michaela"
+   },
+   {
+    "family": "Storey",
+    "given": "Margaret-Anne"
+   },
+   {
+    "family": "Noda",
+    "given": "Abi"
+   }
+  ]
+ },
+ "10.1109/ucc63386.2024.00077": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Shrestha",
+    "given": "Raju"
+   },
+   {
+    "family": "Nur Ali",
+    "given": "Ali Abdi"
+   }
+  ]
+ },
+ "10.1145/2741948.2741964": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Verma",
+    "given": "Abhishek"
+   },
+   {
+    "family": "Pedrosa",
+    "given": "Luis"
+   },
+   {
+    "family": "Korupolu",
+    "given": "Madhukar"
+   },
+   {
+    "family": "Oppenheimer",
+    "given": "David"
+   },
+   {
+    "family": "Tune",
+    "given": "Eric"
+   },
+   {
+    "family": "Wilkes",
+    "given": "John"
+   }
+  ]
+ },
+ "10.1145/2786805.2786850": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Vasilescu",
+    "given": "Bogdan"
+   },
+   {
+    "family": "Yu",
+    "given": "Yue"
+   },
+   {
+    "family": "Wang",
+    "given": "Huaimin"
+   },
+   {
+    "family": "Devanbu",
+    "given": "Premkumar"
+   },
+   {
+    "family": "Filkov",
+    "given": "Vladimir"
+   }
+  ]
+ },
+ "10.1145/2889160.2889223": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Savor",
+    "given": "Tony"
+   },
+   {
+    "family": "Douglas",
+    "given": "Mitchell"
+   },
+   {
+    "family": "Gentili",
+    "given": "Michael"
+   },
+   {
+    "family": "Williams",
+    "given": "Laurie"
+   },
+   {
+    "family": "Beck",
+    "given": "Kent"
+   },
+   {
+    "family": "Stumm",
+    "given": "Michael"
+   }
+  ]
+ },
+ "10.1145/2898442.2898444": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Burns",
+    "given": "Brendan"
+   },
+   {
+    "family": "Grant",
+    "given": "Brian"
+   },
+   {
+    "family": "Oppenheimer",
+    "given": "David"
+   },
+   {
+    "family": "Brewer",
+    "given": "Eric"
+   },
+   {
+    "family": "Wilkes",
+    "given": "John"
+   }
+  ]
+ },
+ "10.1145/2962695.2962707": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Jabbari",
+    "given": "Ramtin"
+   },
+   {
+    "family": "bin Ali",
+    "given": "Nauman"
+   },
+   {
+    "family": "Petersen",
+    "given": "Kai"
+   },
+   {
+    "family": "Tanveer",
+    "given": "Binish"
+   }
+  ]
+ },
+ "10.1145/2970276.2970358": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Hilton",
+    "given": "Michael"
+   },
+   {
+    "family": "Tunnell",
+    "given": "Timothy"
+   },
+   {
+    "family": "Huang",
+    "given": "Kai"
+   },
+   {
+    "family": "Marinov",
+    "given": "Darko"
+   },
+   {
+    "family": "Dig",
+    "given": "Danny"
+   }
+  ]
+ },
+ "10.1145/3359981": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Leite",
+    "given": "Leonardo"
+   },
+   {
+    "family": "Rocha",
+    "given": "Carla"
+   },
+   {
+    "family": "Kon",
+    "given": "Fabio"
+   },
+   {
+    "family": "Milojicic",
+    "given": "Dejan"
+   },
+   {
+    "family": "Meirelles",
+    "given": "Paulo"
+   }
+  ]
+ },
+ "10.1145/3408897": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Rahman",
+    "given": "Akond"
+   },
+   {
+    "family": "Rahman",
+    "given": "Md Rayhanur"
+   },
+   {
+    "family": "Parnin",
+    "given": "Chris"
+   },
+   {
+    "family": "Williams",
+    "given": "Laurie"
+   }
+  ]
+ },
+ "10.1145/3454122.3454124": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Forsgren",
+    "given": "Nicole"
+   },
+   {
+    "family": "Storey",
+    "given": "Margaret-Anne"
+   },
+   {
+    "family": "Maddila",
+    "given": "Chandra"
+   },
+   {
+    "family": "Zimmermann",
+    "given": "Thomas"
+   },
+   {
+    "family": "Houck",
+    "given": "Brian"
+   },
+   {
+    "family": "Butler",
+    "given": "Jenna"
+   }
+  ]
+ },
+ "10.1145/3463274.3463334": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Wolfart",
+    "given": "Daniele"
+   },
+   {
+    "family": "Assunção",
+    "given": "Wesley K. G."
+   },
+   {
+    "family": "da Silva",
+    "given": "Ivonei F."
+   },
+   {
+    "family": "Domingos",
+    "given": "Diogo C. P."
+   },
+   {
+    "family": "Schmeing",
+    "given": "Ederson"
+   },
+   {
+    "family": "Villaca",
+    "given": "Guilherme L. Donin"
+   },
+   {
+    "family": "Paza",
+    "given": "Diogo do N."
+   }
+  ]
+ },
+ "10.1145/3474624.3477071": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Ferino",
+    "given": "Samuel"
+   },
+   {
+    "family": "Fernandes",
+    "given": "Marcelo"
+   },
+   {
+    "family": "Fernandes",
+    "given": "Anny"
+   },
+   {
+    "family": "Kulesza",
+    "given": "Uirá"
+   },
+   {
+    "family": "Aranha",
+    "given": "Eduardo"
+   },
+   {
+    "family": "Treude",
+    "given": "Christoph"
+   }
+  ]
+ },
+ "10.1145/3483424": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Notaro",
+    "given": "Paolo"
+   },
+   {
+    "family": "Cardoso",
+    "given": "Jorge"
+   },
+   {
+    "family": "Gerndt",
+    "given": "Michael"
+   }
+  ]
+ },
+ "10.1145/3484272.3484962": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Hobeck",
+    "given": "Richard"
+   },
+   {
+    "family": "Weber",
+    "given": "Ingo"
+   },
+   {
+    "family": "Bass",
+    "given": "Len"
+   },
+   {
+    "family": "Yasar",
+    "given": "Hasan"
+   }
+  ]
+ },
+ "10.1145/3501297": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Soldani",
+    "given": "Jacopo"
+   },
+   {
+    "family": "Brogi",
+    "given": "Antonio"
+   }
+  ]
+ },
+ "10.1145/3508360": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Li",
+    "given": "Zijun"
+   },
+   {
+    "family": "Guo",
+    "given": "Linsong"
+   },
+   {
+    "family": "Cheng",
+    "given": "Jiagan"
+   },
+   {
+    "family": "Chen",
+    "given": "Quan"
+   },
+   {
+    "family": "He",
+    "given": "Bingsheng"
+   },
+   {
+    "family": "Guo",
+    "given": "Minyi"
+   }
+  ]
+ },
+ "10.1145/3510415": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Zhong",
+    "given": "Zhiheng"
+   },
+   {
+    "family": "Xu",
+    "given": "Minxian"
+   },
+   {
+    "family": "Rodriguez",
+    "given": "Maria Alejandra"
+   },
+   {
+    "family": "Xu",
+    "given": "Chengzhong"
+   },
+   {
+    "family": "Buyya",
+    "given": "Rajkumar"
+   }
+  ]
+ },
+ "10.1145/3510456.3514152": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Fernandes",
+    "given": "Marcelo"
+   },
+   {
+    "family": "Ferino",
+    "given": "Samuel"
+   },
+   {
+    "family": "Fernandes",
+    "given": "Anny"
+   },
+   {
+    "family": "Kulesza",
+    "given": "Uirá"
+   },
+   {
+    "family": "Aranha",
+    "given": "Eduardo"
+   },
+   {
+    "family": "Treude",
+    "given": "Christoph"
+   }
+  ]
+ },
+ "10.1145/3533378": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Paleyes",
+    "given": "Andrei"
+   },
+   {
+    "family": "Urma",
+    "given": "Raoul-Gabriel"
+   },
+   {
+    "family": "Lawrence",
+    "given": "Neil D."
+   }
+  ]
+ },
+ "10.1145/3539606": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Carrión",
+    "given": "Carmen"
+   }
+  ]
+ },
+ "10.1145/3548606.3560596": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Newman",
+    "given": "Zachary"
+   },
+   {
+    "family": "Meyers",
+    "given": "John Speed"
+   },
+   {
+    "family": "Torres-Arias",
+    "given": "Santiago"
+   }
+  ]
+ },
+ "10.1145/3551349.3556945": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Saavedra",
+    "given": "Nuno"
+   },
+   {
+    "family": "Ferreira",
+    "given": "João F."
+   }
+  ]
+ },
+ "10.1145/3560835.3564554": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Benedetti",
+    "given": "Giacomo"
+   },
+   {
+    "family": "Verderame",
+    "given": "Luca"
+   },
+   {
+    "family": "Merlo",
+    "given": "Alessio"
+   }
+  ]
+ },
+ "10.1145/3571854": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Zampetti",
+    "given": "Fiorella"
+   },
+   {
+    "family": "Tamburri",
+    "given": "Damian"
+   },
+   {
+    "family": "Panichella",
+    "given": "Sebastiano"
+   },
+   {
+    "family": "Panichella",
+    "given": "Annibale"
+   },
+   {
+    "family": "Canfora",
+    "given": "Gerardo"
+   },
+   {
+    "family": "Di Penta",
+    "given": "Massimiliano"
+   }
+  ]
+ },
+ "10.1145/3578244.3583737": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Koziolek",
+    "given": "Heiko"
+   },
+   {
+    "family": "Eskandani",
+    "given": "Nafise"
+   }
+  ]
+ },
+ "10.1145/3579639": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Rahman",
+    "given": "Akond"
+   },
+   {
+    "family": "Shamim",
+    "given": "Shazibul Islam"
+   },
+   {
+    "family": "Bose",
+    "given": "Dibyendu Brinto"
+   },
+   {
+    "family": "Pandita",
+    "given": "Rahul"
+   }
+  ]
+ },
+ "10.1145/3579643": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Wen",
+    "given": "Jinfeng"
+   },
+   {
+    "family": "Chen",
+    "given": "Zhenpeng"
+   },
+   {
+    "family": "Jin",
+    "given": "Xin"
+   },
+   {
+    "family": "Liu",
+    "given": "Xuanzhe"
+   }
+  ]
+ },
+ "10.1145/3595878": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Noda",
+    "given": "Abi"
+   },
+   {
+    "family": "Storey",
+    "given": "Margaret-Anne"
+   },
+   {
+    "family": "Forsgren",
+    "given": "Nicole"
+   },
+   {
+    "family": "Greiler",
+    "given": "Michaela"
+   }
+  ]
+ },
+ "10.1145/3625289": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Diaz-de-Arcaya",
+    "given": "Josu"
+   },
+   {
+    "family": "Torre-Bastida",
+    "given": "Ana I."
+   },
+   {
+    "family": "Zárate",
+    "given": "Gorka"
+   },
+   {
+    "family": "Miñón",
+    "given": "Raúl"
+   },
+   {
+    "family": "Almeida",
+    "given": "Aitor"
+   }
+  ]
+ },
+ "10.1145/3652508": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Amaro",
+    "given": "Ricardo"
+   },
+   {
+    "family": "Pereira",
+    "given": "Rúben"
+   },
+   {
+    "family": "Mira da Silva",
+    "given": "Miguel"
+   }
+  ]
+ },
+ "10.1145/3660790": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Hassan",
+    "given": "Md Mahadi"
+   },
+   {
+    "family": "Salvador",
+    "given": "John"
+   },
+   {
+    "family": "Santu",
+    "given": "Shubhra Kanti Karmaker"
+   },
+   {
+    "family": "Rahman",
+    "given": "Akond"
+   }
+  ]
+ },
+ "10.1145/3661167.3661239": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Rafi",
+    "given": "Saima"
+   },
+   {
+    "family": "Akbar",
+    "given": "Muhammad Azeem"
+   },
+   {
+    "family": "Mahmood",
+    "given": "Sajjad"
+   }
+  ]
+ },
+ "10.1145/3664476.3664497": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Zhang",
+    "given": "Xinyu"
+   },
+   {
+    "family": "Muralee",
+    "given": "Siddharth"
+   },
+   {
+    "family": "Cherupattamoolayil",
+    "given": "Sourag"
+   },
+   {
+    "family": "Machiry",
+    "given": "Aravind"
+   }
+  ]
+ },
+ "10.1145/3666015.3666020": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Rüegger",
+    "given": "Janick"
+   },
+   {
+    "family": "Kropp",
+    "given": "Martin"
+   },
+   {
+    "family": "Graf",
+    "given": "Sebastian"
+   },
+   {
+    "family": "Anslow",
+    "given": "Craig"
+   }
+  ]
+ },
+ "10.1145/3687299": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Razzaq",
+    "given": "Abdul"
+   },
+   {
+    "family": "Buckley",
+    "given": "Jim"
+   },
+   {
+    "family": "Lai",
+    "given": "Qin"
+   },
+   {
+    "family": "Yu",
+    "given": "Tingting"
+   },
+   {
+    "family": "Botterweck",
+    "given": "Goetz"
+   }
+  ]
+ },
+ "10.1145/3695988": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Hou",
+    "given": "Xinyi"
+   },
+   {
+    "family": "Zhao",
+    "given": "Yanjie"
+   },
+   {
+    "family": "Liu",
+    "given": "Yue"
+   },
+   {
+    "family": "Yang",
+    "given": "Zhou"
+   },
+   {
+    "family": "Wang",
+    "given": "Kailong"
+   },
+   {
+    "family": "Li",
+    "given": "Li"
+   },
+   {
+    "family": "Luo",
+    "given": "Xiapu"
+   },
+   {
+    "family": "Lo",
+    "given": "David"
+   },
+   {
+    "family": "Grundy",
+    "given": "John"
+   },
+   {
+    "family": "Wang",
+    "given": "Haoyu"
+   }
+  ]
+ },
+ "10.1145/3698038.3698525": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Shetty",
+    "given": "Manish"
+   },
+   {
+    "family": "Chen",
+    "given": "Yinfang"
+   },
+   {
+    "family": "Somashekar",
+    "given": "Gagan"
+   },
+   {
+    "family": "Ma",
+    "given": "Minghua"
+   },
+   {
+    "family": "Simmhan",
+    "given": "Yogesh"
+   },
+   {
+    "family": "Zhang",
+    "given": "Xuchao"
+   },
+   {
+    "family": "Mace",
+    "given": "Jonathan"
+   },
+   {
+    "family": "Vandevoorde",
+    "given": "Dax"
+   },
+   {
+    "family": "Las-Casas",
+    "given": "Pedro"
+   },
+   {
+    "family": "Gupta",
+    "given": "Shachee Mishra"
+   },
+   {
+    "family": "Nath",
+    "given": "Suman"
+   },
+   {
+    "family": "Bansal",
+    "given": "Chetan"
+   },
+   {
+    "family": "Rajmohan",
+    "given": "Saravan"
+   }
+  ]
+ },
+ "10.1145/3712190": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Fu",
+    "given": "Michael"
+   },
+   {
+    "family": "Pasuksmit",
+    "given": "Jirat"
+   },
+   {
+    "family": "Tantithamthavorn",
+    "given": "Chakkrit"
+   }
+  ]
+ },
+ "10.1145/3714464": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Williams",
+    "given": "Laurie"
+   },
+   {
+    "family": "Benedetti",
+    "given": "Giacomo"
+   },
+   {
+    "family": "Hamer",
+    "given": "Sivana"
+   },
+   {
+    "family": "Paramitha",
+    "given": "Ranindya"
+   },
+   {
+    "family": "Rahman",
+    "given": "Imranur"
+   },
+   {
+    "family": "Tamanna",
+    "given": "Mahzabin"
+   },
+   {
+    "family": "Tystahl",
+    "given": "Greg"
+   },
+   {
+    "family": "Zahan",
+    "given": "Nusrat"
+   },
+   {
+    "family": "Morrison",
+    "given": "Patrick"
+   },
+   {
+    "family": "Acar",
+    "given": "Yasemin"
+   },
+   {
+    "family": "Cukier",
+    "given": "Michel"
+   },
+   {
+    "family": "Kästner",
+    "given": "Christian"
+   },
+   {
+    "family": "Kapravelos",
+    "given": "Alexandros"
+   },
+   {
+    "family": "Wermke",
+    "given": "Dominik"
+   },
+   {
+    "family": "Enck",
+    "given": "William"
+   }
+  ]
+ },
+ "10.1145/3746635": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Zhang",
+    "given": "Lingzhe"
+   },
+   {
+    "family": "Jia",
+    "given": "Tong"
+   },
+   {
+    "family": "Jia",
+    "given": "Mengxi"
+   },
+   {
+    "family": "Wu",
+    "given": "Yifan"
+   },
+   {
+    "family": "Liu",
+    "given": "Aiwei"
+   },
+   {
+    "family": "Yang",
+    "given": "Yong"
+   },
+   {
+    "family": "Wu",
+    "given": "Zhonghai"
+   },
+   {
+    "family": "Hu",
+    "given": "Xuming"
+   },
+   {
+    "family": "Yu",
+    "given": "Philip"
+   },
+   {
+    "family": "Li",
+    "given": "Ying"
+   }
+  ]
+ },
+ "10.1145/3797142": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Zhang",
+    "given": "Tianyi"
+   },
+   {
+    "family": "Pan",
+    "given": "Shidong"
+   },
+   {
+    "family": "Zhang",
+    "given": "Zejun"
+   },
+   {
+    "family": "Xing",
+    "given": "Zhenchang"
+   },
+   {
+    "family": "Sun",
+    "given": "Xiaoyu"
+   }
+  ]
+ },
+ "10.1145/3803437.3805247": {
+  "type": "proceedings-article",
+  "author": [
+   {
+    "family": "Peacock",
+    "given": "Callum"
+   },
+   {
+    "family": "Storer",
+    "given": "Tim"
+   }
+  ]
+ },
+ "10.1186/s13677-022-00367-6": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Alonso",
+    "given": "Juncal"
+   },
+   {
+    "family": "Orue-Echevarria",
+    "given": "Leire"
+   },
+   {
+    "family": "Casola",
+    "given": "Valentina"
+   },
+   {
+    "family": "Torre",
+    "given": "Ana Isabel"
+   },
+   {
+    "family": "Huarte",
+    "given": "Maider"
+   },
+   {
+    "family": "Osaba",
+    "given": "Eneko"
+   },
+   {
+    "family": "Lobo",
+    "given": "Jesus L."
+   }
+  ]
+ },
+ "10.1186/s13677-023-00471-1": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Senjab",
+    "given": "Khaldoun"
+   },
+   {
+    "family": "Abbas",
+    "given": "Sohail"
+   },
+   {
+    "family": "Ahmed",
+    "given": "Naveed"
+   },
+   {
+    "family": "Khan",
+    "given": "Atta ur Rehman"
+   }
+  ]
+ },
+ "10.1186/s13677-024-00709-6": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Khan",
+    "given": "Akif Quddus"
+   },
+   {
+    "family": "Matskin",
+    "given": "Mihhail"
+   },
+   {
+    "family": "Prodan",
+    "given": "Radu"
+   },
+   {
+    "family": "Bussler",
+    "given": "Christoph"
+   },
+   {
+    "family": "Roman",
+    "given": "Dumitru"
+   },
+   {
+    "family": "Soylu",
+    "given": "Ahmet"
+   }
+  ]
+ },
+ "10.1186/s13677-026-00972-9": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Kuruganti",
+    "given": "Phani Vasishta"
+   }
+  ]
+ },
+ "10.3390/app12199787": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Ozyurt",
+    "given": "Ozcan"
+   },
+   {
+    "family": "Gurcan",
+    "given": "Fatih"
+   },
+   {
+    "family": "Dalveren",
+    "given": "Gonca Gokce Menekse"
+   },
+   {
+    "family": "Derawi",
+    "given": "Mohammad"
+   }
+  ]
+ },
+ "10.3390/fi14020063": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Almeida",
+    "given": "Fernando"
+   },
+   {
+    "family": "Simões",
+    "given": "Jorge"
+   },
+   {
+    "family": "Lopes",
+    "given": "Sérgio"
+   }
+  ]
+ },
+ "10.3390/s21051910": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Poniszewska-Marańda",
+    "given": "Aneta"
+   },
+   {
+    "family": "Czechowska",
+    "given": "Ewa"
+   }
+  ]
+ },
+ "10.7717/peerj-cs.489": {
+  "type": "journal-article",
+  "author": [
+   {
+    "family": "Cândido",
+    "given": "Jeanderson"
+   },
+   {
+    "family": "Aniche",
+    "given": "Maurício"
+   },
+   {
+    "family": "van Deursen",
+    "given": "Arie"
+   }
+  ]
+ }
+}
