@@ -101,6 +101,7 @@
           <h3>Field queries</h3>
           <table class="syntax">
             <tr><td><code>author:Rahman</code></td><td>Author surname</td></tr>
+            <tr><td><code>cite:"Forsgren, Humble and Kim"</code></td><td>In-text / narrative citation (also <code>intext:</code>)</td></tr>
             <tr><td><code>title:"technical debt"</code></td><td>Title only</td></tr>
             <tr><td><code>year:2024</code> · <code>year:2021..2023</code> · <code>year:&gt;=2020</code></td><td>Year / range</td></tr>
             <tr><td><code>venue:"IEEE Software"</code></td><td>Journal, proceedings or publisher</td></tr>
@@ -211,7 +212,9 @@
         <button type="button" class="btn btn-sm" data-export="bib">BibTeX .bib</button>
         <button type="button" class="btn btn-sm" data-export="ris">RIS .ris</button>
         <button type="button" class="btn btn-sm" data-export="csv">CSV</button>
+        <button type="button" class="btn btn-sm" data-export="intext" title="Download in-text and narrative citations (A–Z, tab-separated)">In-text citations .txt</button>
         <button type="button" class="btn btn-sm btn-ghost" data-export="copy">Copy Harvard</button>
+        <button type="button" class="btn btn-sm btn-ghost" data-export="copyintext" title="Copy in-text and narrative citations to the clipboard">Copy in-text citations</button>
       </div>
     </div>
 
@@ -249,7 +252,7 @@
     <button class="btn btn-ghost icon-only about-close" value="close" aria-label="Close">✕</button>
     <h2 id="aboutTitle">About DevOpsRef</h2>
     <p>DevOpsRef is a searchable library of <strong>214 verified academic references</strong> on DevOps and Enterprise Automation, covering CI/CD, infrastructure as code, containers and Kubernetes, DevSecOps, observability and SRE, DORA metrics, RPA and business process automation, GitOps, platform engineering, MLOps/AIOps, cloud-native architecture and more.</p>
-    <p>Every DOI and URL was verified against Crossref, OpenAlex and publisher pages as of 26 October 2026. Citations follow Harvard (Cite Them Right) style.</p>
+    <p>Every DOI and URL was verified against Crossref, OpenAlex and publisher pages as of 26 October 2026. Citations follow Harvard (Cite Them Right) style, and every reference has a one-click copy of its in-text citation, e.g. (Forsgren, Humble and Kim, 2018), and narrative form, e.g. Forsgren, Humble and Kim (2018).</p>
     <h3>Developer</h3>
     <div class="dev-card">
         <img class="dev-avatar" src="assets/avatar-ymmiah.png" width="46" height="46" alt="">

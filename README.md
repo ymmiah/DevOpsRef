@@ -20,6 +20,7 @@ note explaining why it is relevant to DevOps and enterprise automation.
 | Peer-reviewed (journal, conference, chapter) | 179 |
 | Years covered | 2008–2026 (plus 2 undated web sources) |
 | Sections | 14 |
+| In-text citations | 214 (parenthetical and narrative forms) |
 | Formats | Web app · Word (.docx) · JSON · BibTeX · RIS · CSV |
 
 ## Features
@@ -32,7 +33,10 @@ note explaining why it is relevant to DevOps and enterprise automation.
   peer-reviewed only, foundational/seminal only, has DOI, and minimum citation count.
 - **Sorting** by best match, year (newest or oldest), citations, author A–Z, title A–Z or section order.
 - **Shareable searches.** The query and every filter are saved in the URL.
-- **Citation tools.** Each reference has *Copy Harvard* and *Copy BibTeX* buttons. You can also select several references, or use every current result, and export them as **Harvard text, BibTeX (.bib), RIS (.ris) or CSV**.
+- **Harvard in-text citations with one-click copy.** Every reference card shows its Cite Them Right in-text citation in both forms, each with its own **Copy** button:
+  - parenthetical, e.g. `(Forsgren, Humble and Kim, 2018)`, `(Forsgren et al., 2021)`, `(DORA, 2024)`, `(FinOps Foundation, no date)`
+  - narrative, e.g. `Forsgren, Humble and Kim (2018) found that…`
+- **Citation tools.** Each reference also has *Copy full reference* (Harvard) and *Copy BibTeX* buttons. You can select several references, or use every current result, and export them as **Harvard text, BibTeX (.bib), RIS (.ris), CSV or an A–Z list of in-text citations** (download as .txt or copy to the clipboard; tab-separated so it pastes into Word or Excel as two columns).
 - **Download** the original annotated bibliography as a Word document.
 - Dark and light mode (follows your system setting by default), a responsive mobile layout with a slide-out filter drawer, accessible colour contrast and keyboard support.
 - **No build step and no CDN.** The site is plain HTML, CSS and JavaScript with its own search engine. It works on GitHub Pages and when you open `index.html` straight from disk.
@@ -48,6 +52,7 @@ note explaining why it is relevant to DevOps and enterprise automation.
 | `(rpa OR bpm) AND llm` | grouping |
 | `kube` | prefix match (finds *Kubernetes*) |
 | `author:Rahman` | author surname. Uses the full Crossref author list where the citation says *et al.* |
+| `cite:"Forsgren, Humble and Kim"` · `intext:"Li et al., 2022b"` | in-text / narrative citation (in-text citations are also matched by plain keyword search) |
 | `title:"technical debt"` | title only |
 | `year:2024` · `year:2021..2023` · `year:>=2020` | year or range |
 | `venue:"IEEE Software"` | journal, proceedings or publisher |
@@ -64,6 +69,24 @@ Examples:
 [`year:2023..2025 devsecops`](https://ymmiah.github.io/DevOpsRef/?q=year%3A2023..2025+devsecops) ·
 [`"infrastructure as code" -ansible`](https://ymmiah.github.io/DevOpsRef/?q=%22infrastructure+as+code%22+-ansible) ·
 [`tag:MLOps OR tag:AIOps`](https://ymmiah.github.io/DevOpsRef/?q=tag%3AMLOps+OR+tag%3AAIOps)
+
+## In-text citations (Harvard, Cite Them Right)
+
+| Authors | Parenthetical | Narrative |
+|---|---|---|
+| 1 | (Merkel, 2014) | Merkel (2014) |
+| 2 | (Humble and Farley, 2010) | Humble and Farley (2010) |
+| 3 | (Forsgren, Humble and Kim, 2018) | Forsgren, Humble and Kim (2018) |
+| 4 or more | (Burns et al., 2016) | Burns et al. (2016) |
+| Organisation | (DORA, 2024) · (CNCF TAG App Delivery, 2023) | DORA (2024) |
+| No date | (Open Policy Agent, no date) | Open Policy Agent (no date) |
+| Same author(s) and year | (Li et al., 2022a) · (Li et al., 2022b) | Li et al. (2022a) |
+
+Citations are generated from the author part of each Harvard reference (so they always match the reference list),
+keeping surname particles and accents exactly as published (e.g. *da Silva*, *van der Aalst*, *Cândido*). Where two
+sources would share a citation, a letter is added to the year in both the citation and the reference. When a narrative
+citation starts a sentence, capitalise the particle (e.g. *Van der Aalst, Bichler and Heinzl (2018)*). The Word document
+shows the in-text citation under every reference and ends with a **Quick In-Text Citation Table** (A–Z).
 
 ## Sections
 
@@ -96,14 +119,17 @@ data/references.js          same data as a script, so the site also works from f
 references.bib / .ris / .csv  full library in reference-manager formats
 docs/DevOps_Enterprise_Automation_References.docx   original annotated bibliography (Word)
 scripts/parse_docx.py       rebuilds data/ from the Word document
+scripts/build_intext.py     adds the Harvard in-text / narrative citations to data/
 scripts/build_exports.js    rebuilds references.bib / .ris / .csv from data/
 ```
 
 ### Data fields
 
 `id, section{number,name}, authors, authorsEtAl, authorsFull, year, yearSuffix, title, venue, publisher,
-volume, issue, pages, edition, type, doi, url, accessed, harvard, relevance, citations, tags,
+volume, issue, pages, edition, type, doi, url, accessed, harvard, inText, narrative, relevance, citations, tags,
 foundational, foundationalLabel, seminal, peerReviewed`
+
+- `inText` is the parenthetical Harvard in-text citation, e.g. `(Forsgren, Humble and Kim, 2018)`, and `narrative` the narrative form, e.g. `Forsgren, Humble and Kim (2018)`. Both are also columns in `references.csv`.
 
 - `authors` is taken exactly from the Harvard citation. `authorsFull` holds the complete author list from the
   reference's Crossref record where one exists (used for author search and BibTeX/RIS). Otherwise it is `null`.
@@ -119,6 +145,7 @@ foundational, foundationalLabel, seminal, peerReviewed`
 ```bash
 pip install python-docx
 python3 scripts/parse_docx.py docs/DevOps_Enterprise_Automation_References.docx   # writes data/references.json + .js
+python3 scripts/build_intext.py                                     # adds inText / narrative citations
 node scripts/build_exports.js                                       # writes references.bib/.ris/.csv
 ```
 

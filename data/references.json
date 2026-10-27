@@ -51,7 +51,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Almeida, Simões and Lopes, 2022)",
+   "narrative": "Almeida, Simões and Lopes (2022)"
   },
   {
    "id": "amaro2023b",
@@ -95,7 +97,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Amaro, Pereira and da Silva, 2023b)",
+   "narrative": "Amaro, Pereira and da Silva (2023b)"
   },
   {
    "id": "aouni2025",
@@ -141,7 +145,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Aouni et al., 2025)",
+   "narrative": "Aouni et al. (2025)"
   },
   {
    "id": "arvanitou2022",
@@ -184,7 +190,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Arvanitou et al., 2022)",
+   "narrative": "Arvanitou et al. (2022)"
   },
   {
    "id": "azad2023",
@@ -226,7 +234,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Azad and Hyrynsalmi, 2023)",
+   "narrative": "Azad and Hyrynsalmi (2023)"
   },
   {
    "id": "diaz2021",
@@ -267,7 +277,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Díaz et al., 2021)",
+   "narrative": "Díaz et al. (2021)"
   },
   {
    "id": "faustino2022",
@@ -311,7 +323,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Faustino et al., 2022)",
+   "narrative": "Faustino et al. (2022)"
   },
   {
    "id": "gall2022",
@@ -351,7 +365,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Gall and Pigni, 2022)",
+   "narrative": "Gall and Pigni (2022)"
   },
   {
    "id": "jha2023",
@@ -397,7 +413,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Jha et al., 2023)",
+   "narrative": "Jha et al. (2023)"
   },
   {
    "id": "khan2022",
@@ -440,7 +458,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Khan et al., 2022)",
+   "narrative": "Khan et al. (2022)"
   },
   {
    "id": "kim2021",
@@ -478,7 +498,9 @@
    "foundational": true,
    "foundationalLabel": true,
    "seminal": false,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(Kim et al., 2021)",
+   "narrative": "Kim et al. (2021)"
   },
   {
    "id": "leite2020",
@@ -521,7 +543,9 @@
    "foundational": true,
    "foundationalLabel": true,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Leite et al., 2020)",
+   "narrative": "Leite et al. (2020)"
   },
   {
    "id": "lopezfernandez2022",
@@ -563,7 +587,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Lopez-Fernandez et al., 2022)",
+   "narrative": "Lopez-Fernandez et al. (2022)"
   },
   {
    "id": "wiedemann2023",
@@ -604,7 +630,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Wiedemann et al., 2023)",
+   "narrative": "Wiedemann et al. (2023)"
   },
   {
    "id": "zhang2025",
@@ -648,7 +676,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Zhang, Zhao and Jaskolka, 2025)",
+   "narrative": "Zhang, Zhao and Jaskolka (2025)"
   },
   {
    "id": "decan2022",
@@ -689,7 +719,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Decan et al., 2022)",
+   "narrative": "Decan et al. (2022)"
   },
   {
    "id": "elazhary2022",
@@ -731,7 +763,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Elazhary et al., 2022)",
+   "narrative": "Elazhary et al. (2022)"
   },
   {
    "id": "golzadeh2022",
@@ -772,7 +806,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Golzadeh, Decan and Mens, 2022)",
+   "narrative": "Golzadeh, Decan and Mens (2022)"
   },
   {
    "id": "leite2021",
@@ -813,7 +849,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Leite et al., 2021)",
+   "narrative": "Leite et al. (2021)"
   },
   {
    "id": "mahdavihezaveh2021",
@@ -854,7 +892,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Mahdavi-Hezaveh, Dremann and Williams, 2021)",
+   "narrative": "Mahdavi-Hezaveh, Dremann and Williams (2021)"
   },
   {
    "id": "nogueira2024",
@@ -893,7 +933,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Nogueira and Zenha-Rela, 2024)",
+   "narrative": "Nogueira and Zenha-Rela (2024)"
   },
   {
    "id": "pan2022",
@@ -937,7 +979,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Pan et al., 2022)",
+   "narrative": "Pan et al. (2022)"
   },
   {
    "id": "quin2024",
@@ -979,7 +1023,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Quin et al., 2024)",
+   "narrative": "Quin et al. (2024)"
   },
   {
    "id": "rostamimazrae2023",
@@ -1019,7 +1065,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Rostami Mazrae et al., 2023)",
+   "narrative": "Rostami Mazrae et al. (2023)"
   },
   {
    "id": "shahin2017",
@@ -1061,7 +1109,9 @@
    "foundational": true,
    "foundationalLabel": true,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Shahin, Ali Babar and Zhu, 2017)",
+   "narrative": "Shahin, Ali Babar and Zhu (2017)"
   },
   {
    "id": "zampetti2021",
@@ -1101,7 +1151,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Zampetti et al., 2021)",
+   "narrative": "Zampetti et al. (2021)"
   },
   {
    "id": "zampetti2023",
@@ -1143,7 +1195,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Zampetti et al., 2023)",
+   "narrative": "Zampetti et al. (2023)"
   },
   {
    "id": "dallapalma2022",
@@ -1185,7 +1239,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Dalla Palma et al., 2022)",
+   "narrative": "Dalla Palma et al. (2022)"
   },
   {
    "id": "hassan2024",
@@ -1227,7 +1283,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Hassan et al., 2024)",
+   "narrative": "Hassan et al. (2024)"
   },
   {
    "id": "kumara2021",
@@ -1273,7 +1331,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Kumara et al., 2021)",
+   "narrative": "Kumara et al. (2021)"
   },
   {
    "id": "low2024",
@@ -1317,7 +1377,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Low, Cheh and Chen, 2024)",
+   "narrative": "Low, Cheh and Chen (2024)"
   },
   {
    "id": "opdebeeck2023",
@@ -1360,7 +1422,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Opdebeeck, Zerouali and De Roover, 2023)",
+   "narrative": "Opdebeeck, Zerouali and De Roover (2023)"
   },
   {
    "id": "rahman2019a",
@@ -1402,7 +1466,9 @@
    "foundational": true,
    "foundationalLabel": true,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Rahman, Mahdavi-Hezaveh and Williams, 2019)",
+   "narrative": "Rahman, Mahdavi-Hezaveh and Williams (2019)"
   },
   {
    "id": "rahman2021a",
@@ -1444,7 +1510,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Rahman et al., 2021)",
+   "narrative": "Rahman et al. (2021)"
   },
   {
    "id": "saavedra2022",
@@ -1486,7 +1554,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Saavedra and Ferreira, 2022)",
+   "narrative": "Saavedra and Ferreira (2022)"
   },
   {
    "id": "toprani2025",
@@ -1529,7 +1599,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Toprani and Madisetti, 2025)",
+   "narrative": "Toprani and Madisetti (2025)"
   },
   {
    "id": "verdet2025",
@@ -1572,7 +1644,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Verdet et al., 2025)",
+   "narrative": "Verdet et al. (2025)"
   },
   {
    "id": "zhang2026a",
@@ -1592,7 +1666,7 @@
     "Sun, X."
    ],
    "year": 2026,
-   "yearSuffix": null,
+   "yearSuffix": "b",
    "title": "Deployability-Centric Infrastructure-as-Code Generation: Fail, Learn, Refine, and Succeed through LLM-Empowered DevOps Simulation",
    "venue": "Proceedings of the ACM on Software Engineering",
    "publisher": null,
@@ -1604,7 +1678,7 @@
    "doi": "10.1145/3797142",
    "url": "https://doi.org/10.1145/3797142",
    "accessed": null,
-   "harvard": "Zhang, T. et al. (2026) 'Deployability-Centric Infrastructure-as-Code Generation: Fail, Learn, Refine, and Succeed through LLM-Empowered DevOps Simulation', Proceedings of the ACM on Software Engineering, 3(FSE), pp. 321–343. Available at: https://doi.org/10.1145/3797142.",
+   "harvard": "Zhang, T. et al. (2026b) 'Deployability-Centric Infrastructure-as-Code Generation: Fail, Learn, Refine, and Succeed through LLM-Empowered DevOps Simulation', Proceedings of the ACM on Software Engineering, 3(FSE), pp. 321–343. Available at: https://doi.org/10.1145/3797142.",
    "relevance": "Recent (2026) study on LLM-generated IaC that prioritises actual deployability rather than syntax, using iterative feedback. Shows the current frontier of AI-generated Terraform/CloudFormation.",
    "citations": null,
    "tags": [
@@ -1617,7 +1691,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Zhang et al., 2026b)",
+   "narrative": "Zhang et al. (2026b)"
   },
   {
    "id": "azuma2022",
@@ -1658,7 +1734,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Azuma et al., 2022)",
+   "narrative": "Azuma et al. (2022)"
   },
   {
    "id": "burns2016",
@@ -1700,7 +1778,9 @@
    "foundational": true,
    "foundationalLabel": true,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Burns et al., 2016)",
+   "narrative": "Burns et al. (2016)"
   },
   {
    "id": "carrion2023",
@@ -1738,7 +1818,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Carrión, 2023)",
+   "narrative": "Carrión (2023)"
   },
   {
    "id": "koziolek2023",
@@ -1780,7 +1862,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Koziolek and Eskandani, 2023)",
+   "narrative": "Koziolek and Eskandani (2023)"
   },
   {
    "id": "minna2021",
@@ -1823,7 +1907,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Minna et al., 2021)",
+   "narrative": "Minna et al. (2021)"
   },
   {
    "id": "mondal2022",
@@ -1866,7 +1952,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Mondal et al., 2022)",
+   "narrative": "Mondal et al. (2022)"
   },
   {
    "id": "poniszewskamaranda2021",
@@ -1907,7 +1995,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Poniszewska-Marańda and Czechowska, 2021)",
+   "narrative": "Poniszewska-Marańda and Czechowska (2021)"
   },
   {
    "id": "rahman2023",
@@ -1951,7 +2041,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Rahman et al., 2023)",
+   "narrative": "Rahman et al. (2023)"
   },
   {
    "id": "reis2022",
@@ -1993,7 +2085,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Reis et al., 2022)",
+   "narrative": "Reis et al. (2022)"
   },
   {
    "id": "rosa2024",
@@ -2034,7 +2128,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Rosa et al., 2024)",
+   "narrative": "Rosa et al. (2024)"
   },
   {
    "id": "senjab2023",
@@ -2077,7 +2173,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Senjab et al., 2023)",
+   "narrative": "Senjab et al. (2023)"
   },
   {
    "id": "zhong2022",
@@ -2121,7 +2219,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Zhong et al., 2022)",
+   "narrative": "Zhong et al. (2022)"
   },
   {
    "id": "akbar2022b",
@@ -2161,7 +2261,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Akbar et al., 2022b)",
+   "narrative": "Akbar et al. (2022b)"
   },
   {
    "id": "basak2023",
@@ -2201,7 +2303,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Basak et al., 2023)",
+   "narrative": "Basak et al. (2023)"
   },
   {
    "id": "bedoya2024",
@@ -2245,7 +2349,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Bedoya et al., 2024)",
+   "narrative": "Bedoya et al. (2024)"
   },
   {
    "id": "benedetti2022",
@@ -2288,7 +2394,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Benedetti, Verderame and Merlo, 2022)",
+   "narrative": "Benedetti, Verderame and Merlo (2022)"
   },
   {
    "id": "enck2022",
@@ -2328,7 +2436,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Enck and Williams, 2022)",
+   "narrative": "Enck and Williams (2022)"
   },
   {
    "id": "fourne2023",
@@ -2370,7 +2480,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Fourné et al., 2023)",
+   "narrative": "Fourné et al. (2023)"
   },
   {
    "id": "fu2025",
@@ -2413,7 +2525,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Fu, Pasuksmit and Tantithamthavorn, 2025)",
+   "narrative": "Fu, Pasuksmit and Tantithamthavorn (2025)"
   },
   {
    "id": "lombardi2023",
@@ -2454,7 +2568,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Lombardi and Fanton, 2023)",
+   "narrative": "Lombardi and Fanton (2023)"
   },
   {
    "id": "newman2022",
@@ -2499,7 +2615,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Newman, Meyers and Torres-Arias, 2022)",
+   "narrative": "Newman, Meyers and Torres-Arias (2022)"
   },
   {
    "id": "pallewatta2024",
@@ -2541,7 +2659,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Pallewatta and Babar, 2024)",
+   "narrative": "Pallewatta and Babar (2024)"
   },
   {
    "id": "prates2025",
@@ -2582,7 +2702,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Prates and Pereira, 2025)",
+   "narrative": "Prates and Pereira (2025)"
   },
   {
    "id": "rahman2021b",
@@ -2625,7 +2747,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Rahman, Barsha and Morrison, 2021)",
+   "narrative": "Rahman, Barsha and Morrison (2021)"
   },
   {
    "id": "rajapakse2022",
@@ -2666,7 +2790,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Rajapakse et al., 2022)",
+   "narrative": "Rajapakse et al. (2022)"
   },
   {
    "id": "williams2025",
@@ -2719,7 +2845,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Williams et al., 2025)",
+   "narrative": "Williams et al. (2025)"
   },
   {
    "id": "xia2023",
@@ -2762,7 +2890,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Xia et al., 2023)",
+   "narrative": "Xia et al. (2023)"
   },
   {
    "id": "zhao2024",
@@ -2805,7 +2935,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Zhao, Clear and Lal, 2024)",
+   "narrative": "Zhao, Clear and Lal (2024)"
   },
   {
    "id": "ahmed2023",
@@ -2852,7 +2984,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Ahmed et al., 2023)",
+   "narrative": "Ahmed et al. (2023)"
   },
   {
    "id": "bento2021",
@@ -2896,7 +3030,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Bento et al., 2021)",
+   "narrative": "Bento et al. (2021)"
   },
   {
    "id": "beyer2016",
@@ -2932,7 +3068,9 @@
    "foundational": true,
    "foundationalLabel": true,
    "seminal": false,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(Beyer et al., 2016)",
+   "narrative": "Beyer et al. (2016)"
   },
   {
    "id": "candido2021",
@@ -2974,7 +3112,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Cândido, Aniche and van Deursen, 2021)",
+   "narrative": "Cândido, Aniche and van Deursen (2021)"
   },
   {
    "id": "faseeha2025",
@@ -3016,7 +3156,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Faseeha et al., 2025)",
+   "narrative": "Faseeha et al. (2025)"
   },
   {
    "id": "giamattei2024",
@@ -3072,7 +3214,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Giamattei et al., 2024)",
+   "narrative": "Giamattei et al. (2024)"
   },
   {
    "id": "kosinska2023",
@@ -3116,7 +3260,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Kosińska et al., 2023)",
+   "narrative": "Kosińska et al. (2023)"
   },
   {
    "id": "li2022a",
@@ -3138,7 +3284,7 @@
     "Liu, X."
    ],
    "year": 2022,
-   "yearSuffix": null,
+   "yearSuffix": "a",
    "title": "Enjoy your observability: an industrial survey of microservice tracing and analysis",
    "venue": "Empirical Software Engineering",
    "publisher": null,
@@ -3150,7 +3296,7 @@
    "doi": "10.1007/s10664-021-10063-9",
    "url": "https://doi.org/10.1007/s10664-021-10063-9",
    "accessed": null,
-   "harvard": "Li, B. et al. (2022) 'Enjoy your observability: an industrial survey of microservice tracing and analysis', Empirical Software Engineering, 27(1), 25. Available at: https://doi.org/10.1007/s10664-021-10063-9.",
+   "harvard": "Li, B. et al. (2022a) 'Enjoy your observability: an industrial survey of microservice tracing and analysis', Empirical Software Engineering, 27(1), 25. Available at: https://doi.org/10.1007/s10664-021-10063-9.",
    "relevance": "Industrial survey of microservice tracing and analysis practices. Practitioner evidence on distributed tracing adoption and pain points.",
    "citations": null,
    "tags": [
@@ -3161,7 +3307,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Li et al., 2022a)",
+   "narrative": "Li et al. (2022a)"
   },
   {
    "id": "simonsson2021",
@@ -3206,7 +3354,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Simonsson et al., 2021)",
+   "narrative": "Simonsson et al. (2021)"
   },
   {
    "id": "soldani2023",
@@ -3248,7 +3398,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Soldani and Brogi, 2023)",
+   "narrative": "Soldani and Brogi (2023)"
   },
   {
    "id": "usman2022",
@@ -3292,7 +3444,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Usman et al., 2022)",
+   "narrative": "Usman et al. (2022)"
   },
   {
    "id": "amaro2023a",
@@ -3334,7 +3488,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Amaro, Pereira and da Silva, 2023a)",
+   "narrative": "Amaro, Pereira and da Silva (2023a)"
   },
   {
    "id": "amaro2024",
@@ -3378,7 +3534,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Amaro, Pereira and Mira da Silva, 2024)",
+   "narrative": "Amaro, Pereira and Mira da Silva (2024)"
   },
   {
    "id": "forsgren2018",
@@ -3417,7 +3575,9 @@
    "foundational": true,
    "foundationalLabel": true,
    "seminal": false,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(Forsgren, Humble and Kim, 2018)",
+   "narrative": "Forsgren, Humble and Kim (2018)"
   },
   {
    "id": "forsgren2021",
@@ -3460,7 +3620,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Forsgren et al., 2021)",
+   "narrative": "Forsgren et al. (2021)"
   },
   {
    "id": "greiler2023",
@@ -3503,7 +3665,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Greiler, Storey and Noda, 2023)",
+   "narrative": "Greiler, Storey and Noda (2023)"
   },
   {
    "id": "kersten2018",
@@ -3539,7 +3703,9 @@
    "foundational": true,
    "foundationalLabel": true,
    "seminal": false,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(Kersten, 2018)",
+   "narrative": "Kersten (2018)"
   },
   {
    "id": "kumar2025",
@@ -3582,7 +3748,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Kumar, Nadeem and Shameem, 2025)",
+   "narrative": "Kumar, Nadeem and Shameem (2025)"
   },
   {
    "id": "lomio2022",
@@ -3625,7 +3793,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Lomio et al., 2022)",
+   "narrative": "Lomio et al. (2022)"
   },
   {
    "id": "noda2023",
@@ -3667,7 +3837,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Noda et al., 2023)",
+   "narrative": "Noda et al. (2023)"
   },
   {
    "id": "razzaq2025",
@@ -3711,7 +3883,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Razzaq et al., 2025)",
+   "narrative": "Razzaq et al. (2025)"
   },
   {
    "id": "ruegger2024",
@@ -3754,7 +3928,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Rüegger et al., 2024)",
+   "narrative": "Rüegger et al. (2024)"
   },
   {
    "id": "sallin2021",
@@ -3798,7 +3974,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Sallin et al., 2021)",
+   "narrative": "Sallin et al. (2021)"
   },
   {
    "id": "wilkes2023",
@@ -3842,7 +4020,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Wilkes, Milani and Storey, 2023)",
+   "narrative": "Wilkes, Milani and Storey (2023)"
   },
   {
    "id": "agutter2020",
@@ -3880,7 +4060,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(Agutter, 2020)",
+   "narrative": "Agutter (2020)"
   },
   {
    "id": "engel2022",
@@ -3923,7 +4105,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Engel, Ebel and Leimeister, 2022)",
+   "narrative": "Engel, Ebel and Leimeister (2022)"
   },
   {
    "id": "flechsig2022",
@@ -3965,7 +4149,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Flechsig, Anslinger and Lasch, 2022)",
+   "narrative": "Flechsig, Anslinger and Lasch (2022)"
   },
   {
    "id": "grohs2024",
@@ -4008,7 +4194,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Grohs et al., 2024)",
+   "narrative": "Grohs et al. (2024)"
   },
   {
    "id": "haleem2021",
@@ -4053,7 +4241,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Haleem et al., 2021)",
+   "narrative": "Haleem et al. (2021)"
   },
   {
    "id": "moreira2023",
@@ -4096,7 +4286,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Moreira, Mamede and Santos, 2023)",
+   "narrative": "Moreira, Mamede and Santos (2023)"
   },
   {
    "id": "moreira2024",
@@ -4139,7 +4331,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Moreira, Mamede and Santos, 2024)",
+   "narrative": "Moreira, Mamede and Santos (2024)"
   },
   {
    "id": "ng2021",
@@ -4184,7 +4378,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Ng et al., 2021)",
+   "narrative": "Ng et al. (2021)"
   },
   {
    "id": "pramod2022",
@@ -4222,7 +4418,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Pramod, 2022)",
+   "narrative": "Pramod (2022)"
   },
   {
    "id": "ribeiro2021",
@@ -4266,7 +4464,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Ribeiro et al., 2021)",
+   "narrative": "Ribeiro et al. (2021)"
   },
   {
    "id": "schlegel2024",
@@ -4308,7 +4508,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Schlegel et al., 2024)",
+   "narrative": "Schlegel et al. (2024)"
   },
   {
    "id": "villar2021",
@@ -4348,7 +4550,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Villar and Khan, 2021)",
+   "narrative": "Villar and Khan (2021)"
   },
   {
    "id": "wewerka2023",
@@ -4389,7 +4593,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Wewerka and Reichert, 2023)",
+   "narrative": "Wewerka and Reichert (2023)"
   },
   {
    "id": "beetz2022",
@@ -4429,7 +4635,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Beetz and Harrer, 2022)",
+   "narrative": "Beetz and Harrer (2022)"
   },
   {
    "id": "diazdearcaya2024",
@@ -4472,7 +4680,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Diaz-de-Arcaya et al., 2024)",
+   "narrative": "Diaz-de-Arcaya et al. (2024)"
   },
   {
    "id": "fan2023",
@@ -4518,7 +4728,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Fan et al., 2023)",
+   "narrative": "Fan et al. (2023)"
   },
   {
    "id": "hou2024",
@@ -4566,7 +4778,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Hou et al., 2024)",
+   "narrative": "Hou et al. (2024)"
   },
   {
    "id": "john2021",
@@ -4607,7 +4821,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(John, Olsson and Bosch, 2021)",
+   "narrative": "John, Olsson and Bosch (2021)"
   },
   {
    "id": "kreuzberger2023",
@@ -4649,7 +4865,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Kreuzberger, Kühl and Hirschl, 2023)",
+   "narrative": "Kreuzberger, Kühl and Hirschl (2023)"
   },
   {
    "id": "kuruganti2026",
@@ -4687,7 +4905,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Kuruganti, 2026)",
+   "narrative": "Kuruganti (2026)"
   },
   {
    "id": "notaro2021",
@@ -4729,7 +4949,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Notaro, Cardoso and Gerndt, 2021)",
+   "narrative": "Notaro, Cardoso and Gerndt (2021)"
   },
   {
    "id": "paleyes2023",
@@ -4773,7 +4995,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Paleyes, Urma and Lawrence, 2023)",
+   "narrative": "Paleyes, Urma and Lawrence (2023)"
   },
   {
    "id": "peng2023",
@@ -4811,7 +5035,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(Peng et al., 2023)",
+   "narrative": "Peng et al. (2023)"
   },
   {
    "id": "utami2021",
@@ -4820,6 +5046,7 @@
     "name": "GitOps, platform engineering, MLOps/AIOps and AI in DevOps"
    },
    "authors": [
+    "Ramadoni",
     "Utami, E.",
     "Fatta, H.A."
    ],
@@ -4851,7 +5078,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Ramadoni, Utami and Fatta, 2021)",
+   "narrative": "Ramadoni, Utami and Fatta (2021)"
   },
   {
    "id": "shetty2024",
@@ -4901,7 +5130,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Shetty et al., 2024)",
+   "narrative": "Shetty et al. (2024)"
   },
   {
    "id": "shrestha2024",
@@ -4943,7 +5174,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Shrestha and Nur Ali, 2024)",
+   "narrative": "Shrestha and Nur Ali (2024)"
   },
   {
    "id": "zarour2025",
@@ -4985,7 +5218,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Zarour, Alzabut and Al-Sarayreh, 2025)",
+   "narrative": "Zarour, Alzabut and Al-Sarayreh (2025)"
   },
   {
    "id": "zhang2024",
@@ -5028,7 +5263,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Zhang et al., 2024)",
+   "narrative": "Zhang et al. (2024)"
   },
   {
    "id": "zhang2026b",
@@ -5053,7 +5290,7 @@
     "Li, Y."
    ],
    "year": 2026,
-   "yearSuffix": null,
+   "yearSuffix": "a",
    "title": "A Survey of AIOps in the Era of Large Language Models",
    "venue": "ACM Computing Surveys",
    "publisher": null,
@@ -5065,7 +5302,7 @@
    "doi": "10.1145/3746635",
    "url": "https://doi.org/10.1145/3746635",
    "accessed": null,
-   "harvard": "Zhang, L. et al. (2026) 'A Survey of AIOps in the Era of Large Language Models', ACM Computing Surveys, 58(2), pp. 1–35. Available at: https://doi.org/10.1145/3746635.",
+   "harvard": "Zhang, L. et al. (2026a) 'A Survey of AIOps in the Era of Large Language Models', ACM Computing Surveys, 58(2), pp. 1–35. Available at: https://doi.org/10.1145/3746635.",
    "relevance": "2025/26 survey of large language models applied to AIOps tasks. Up-to-date view of generative AI in IT operations.",
    "citations": null,
    "tags": [
@@ -5077,7 +5314,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Zhang et al., 2026a)",
+   "narrative": "Zhang et al. (2026a)"
   },
   {
    "id": "alonso2023",
@@ -5122,7 +5361,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Alonso et al., 2023)",
+   "narrative": "Alonso et al. (2023)"
   },
   {
    "id": "blinowski2022",
@@ -5165,7 +5406,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Blinowski, Ojdowska and Przybylek, 2022)",
+   "narrative": "Blinowski, Ojdowska and Przybylek (2022)"
   },
   {
    "id": "deng2024",
@@ -5211,7 +5454,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Deng et al., 2024)",
+   "narrative": "Deng et al. (2024)"
   },
   {
    "id": "fritzsch2023",
@@ -5257,7 +5502,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Fritzsch et al., 2023)",
+   "narrative": "Fritzsch et al. (2023)"
   },
   {
    "id": "khan2024",
@@ -5300,7 +5547,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Khan et al., 2024)",
+   "narrative": "Khan et al. (2024)"
   },
   {
    "id": "li2022b",
@@ -5321,7 +5570,7 @@
     "Guo, M."
    ],
    "year": 2022,
-   "yearSuffix": null,
+   "yearSuffix": "b",
    "title": "The Serverless Computing Survey: A Technical Primer for Design Architecture",
    "venue": "ACM Computing Surveys",
    "publisher": null,
@@ -5333,7 +5582,7 @@
    "doi": "10.1145/3508360",
    "url": "https://doi.org/10.1145/3508360",
    "accessed": null,
-   "harvard": "Li, Z. et al. (2022) 'The Serverless Computing Survey: A Technical Primer for Design Architecture', ACM Computing Surveys, 54(10s), pp. 1–34. Available at: https://doi.org/10.1145/3508360.",
+   "harvard": "Li, Z. et al. (2022b) 'The Serverless Computing Survey: A Technical Primer for Design Architecture', ACM Computing Surveys, 54(10s), pp. 1–34. Available at: https://doi.org/10.1145/3508360.",
    "relevance": "ACM survey of serverless computing architecture and design. Covers a key cloud-native deployment model alongside containers.",
    "citations": null,
    "tags": [
@@ -5345,7 +5594,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Li et al., 2022b)",
+   "narrative": "Li et al. (2022b)"
   },
   {
    "id": "throner2021",
@@ -5393,7 +5644,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Throner et al., 2021)",
+   "narrative": "Throner et al. (2021)"
   },
   {
    "id": "velepucha2023",
@@ -5434,7 +5687,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Velepucha and Flores, 2023)",
+   "narrative": "Velepucha and Flores (2023)"
   },
   {
    "id": "wen2023",
@@ -5477,7 +5732,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Wen et al., 2023)",
+   "narrative": "Wen et al. (2023)"
   },
   {
    "id": "wolfart2021",
@@ -5522,7 +5779,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Wolfart et al., 2021)",
+   "narrative": "Wolfart et al. (2021)"
   },
   {
    "id": "alves2021",
@@ -5562,7 +5821,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Alves and Rocha, 2021)",
+   "narrative": "Alves and Rocha (2021)"
   },
   {
    "id": "ferino2021",
@@ -5605,7 +5866,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Ferino et al., 2021)",
+   "narrative": "Ferino et al. (2021)"
   },
   {
    "id": "ferino2023",
@@ -5650,7 +5913,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Ferino et al., 2023)",
+   "narrative": "Ferino et al. (2023)"
   },
   {
    "id": "fernandes2022",
@@ -5693,7 +5958,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Fernandes et al., 2022)",
+   "narrative": "Fernandes et al. (2022)"
   },
   {
    "id": "hobeck2021",
@@ -5734,7 +6001,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Hobeck et al., 2021)",
+   "narrative": "Hobeck et al. (2021)"
   },
   {
    "id": "ozyurt2022",
@@ -5776,7 +6045,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Ozyurt et al., 2022)",
+   "narrative": "Ozyurt et al. (2022)"
   },
   {
    "id": "perez2022",
@@ -5819,7 +6090,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Perez et al., 2022)",
+   "narrative": "Perez et al. (2022)"
   },
   {
    "id": "rafi2024",
@@ -5861,7 +6134,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Rafi, Akbar and Mahmood, 2024)",
+   "narrative": "Rafi, Akbar and Mahmood (2024)"
   },
   {
    "id": "bermejo2023",
@@ -5870,6 +6145,7 @@
     "name": "DevOps education and skills"
    },
    "authors": [
+    "Sánchez‐Cifo, M.Á.",
     "Bermejo, P.",
     "Navarro, E."
    ],
@@ -5902,7 +6178,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Sánchez‐Cifo, Bermejo and Navarro, 2023)",
+   "narrative": "Sánchez‐Cifo, Bermejo and Navarro (2023)"
   },
   {
    "id": "akbar2022a",
@@ -5944,7 +6222,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Akbar et al., 2022a)",
+   "narrative": "Akbar et al. (2022a)"
   },
   {
    "id": "amrit2025",
@@ -5986,7 +6266,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Amrit and Narayanappa, 2025)",
+   "narrative": "Amrit and Narayanappa (2025)"
   },
   {
    "id": "edison2022",
@@ -6029,7 +6311,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Edison, Wang and Conboy, 2022)",
+   "narrative": "Edison, Wang and Conboy (2022)"
   },
   {
    "id": "fuentesquijada2025",
@@ -6072,7 +6356,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Fuentes-Quijada, Ruiz-González and Caro, 2025)",
+   "narrative": "Fuentes-Quijada, Ruiz-González and Caro (2025)"
   },
   {
    "id": "grande2024",
@@ -6115,7 +6401,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Grande, Vizcaíno and García, 2024)",
+   "narrative": "Grande, Vizcaíno and García (2024)"
   },
   {
    "id": "khattak2023",
@@ -6157,7 +6445,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Khattak et al., 2023)",
+   "narrative": "Khattak et al. (2023)"
   },
   {
    "id": "munoz2024",
@@ -6196,7 +6486,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Muñoz and Rodríguez, 2024)",
+   "narrative": "Muñoz and Rodríguez (2024)"
   },
   {
    "id": "ozdenizcikose2025",
@@ -6233,7 +6525,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Ozdenizci Kose, 2025)",
+   "narrative": "Ozdenizci Kose (2025)"
   },
   {
    "id": "peacock2026",
@@ -6275,7 +6569,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Peacock and Storer, 2026)",
+   "narrative": "Peacock and Storer (2026)"
   },
   {
    "id": "sarwar2023",
@@ -6319,7 +6615,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Sarwar et al., 2023)",
+   "narrative": "Sarwar et al. (2023)"
   },
   {
    "id": "tanzil2023",
@@ -6359,7 +6657,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Tanzil et al., 2023)",
+   "narrative": "Tanzil et al. (2023)"
   },
   {
    "id": "amershi2019",
@@ -6405,7 +6705,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Amershi et al., 2019)",
+   "narrative": "Amershi et al. (2019)"
   },
   {
    "id": "balalaie2016",
@@ -6448,7 +6750,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Balalaie, Heydarnoori and Jamshidi, 2016)",
+   "narrative": "Balalaie, Heydarnoori and Jamshidi (2016)"
   },
   {
    "id": "basiri2016",
@@ -6492,7 +6796,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Basiri et al., 2016)",
+   "narrative": "Basiri et al. (2016)"
   },
   {
    "id": "bass2015",
@@ -6529,7 +6835,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(Bass, Weber and Zhu, 2015)",
+   "narrative": "Bass, Weber and Zhu (2015)"
   },
   {
    "id": "bernstein2014",
@@ -6569,7 +6877,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Bernstein, 2014)",
+   "narrative": "Bernstein (2014)"
   },
   {
    "id": "breck2017",
@@ -6612,7 +6922,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Breck et al., 2017)",
+   "narrative": "Breck et al. (2017)"
   },
   {
    "id": "chen2015",
@@ -6649,7 +6961,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Chen, 2015)",
+   "narrative": "Chen (2015)"
   },
   {
    "id": "dang2019",
@@ -6690,7 +7004,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Dang, Lin and Huang, 2019)",
+   "narrative": "Dang, Lin and Huang (2019)"
   },
   {
    "id": "debois2008",
@@ -6728,7 +7044,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Debois, 2008)",
+   "narrative": "Debois (2008)"
   },
   {
    "id": "dragoni2017",
@@ -6771,7 +7089,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Dragoni et al., 2017)",
+   "narrative": "Dragoni et al. (2017)"
   },
   {
    "id": "dumas2018",
@@ -6812,7 +7132,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(Dumas et al., 2018)",
+   "narrative": "Dumas et al. (2018)"
   },
   {
    "id": "ebert2016",
@@ -6852,7 +7174,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Ebert et al., 2016)",
+   "narrative": "Ebert et al. (2016)"
   },
   {
    "id": "erich2017",
@@ -6893,7 +7217,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Erich, Amrit and Daneva, 2017)",
+   "narrative": "Erich, Amrit and Daneva (2017)"
   },
   {
    "id": "feitelson2013",
@@ -6934,7 +7260,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Feitelson, Frachtenberg and Beck, 2013)",
+   "narrative": "Feitelson, Frachtenberg and Beck (2013)"
   },
   {
    "id": "felter2015",
@@ -6976,7 +7304,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Felter et al., 2015)",
+   "narrative": "Felter et al. (2015)"
   },
   {
    "id": "fitzgerald2017",
@@ -7015,7 +7345,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Fitzgerald and Stol, 2017)",
+   "narrative": "Fitzgerald and Stol (2017)"
   },
   {
    "id": "fowler2024",
@@ -7050,7 +7382,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(Fowler, 2024)",
+   "narrative": "Fowler (2024)"
   },
   {
    "id": "hilton2016",
@@ -7091,7 +7425,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Hilton et al., 2016)",
+   "narrative": "Hilton et al. (2016)"
   },
   {
    "id": "hofmann2020",
@@ -7133,7 +7469,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Hofmann, Samp and Urbach, 2020)",
+   "narrative": "Hofmann, Samp and Urbach (2020)"
   },
   {
    "id": "humble2010",
@@ -7170,7 +7508,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(Humble and Farley, 2010)",
+   "narrative": "Humble and Farley (2010)"
   },
   {
    "id": "jabbari2016",
@@ -7211,7 +7551,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Jabbari et al., 2016)",
+   "narrative": "Jabbari et al. (2016)"
   },
   {
    "id": "jonas2019",
@@ -7247,7 +7589,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(Jonas et al., 2019)",
+   "narrative": "Jonas et al. (2019)"
   },
   {
    "id": "kim2013",
@@ -7286,7 +7630,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(Kim, Behr and Spafford, 2013)",
+   "narrative": "Kim, Behr and Spafford (2013)"
   },
   {
    "id": "laukkanen2017",
@@ -7328,7 +7674,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Laukkanen, Itkonen and Lassenius, 2017)",
+   "narrative": "Laukkanen, Itkonen and Lassenius (2017)"
   },
   {
    "id": "leppanen2015",
@@ -7371,7 +7719,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Leppanen et al., 2015)",
+   "narrative": "Leppanen et al. (2015)"
   },
   {
    "id": "lewis2014",
@@ -7407,7 +7757,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(Lewis and Fowler, 2014)",
+   "narrative": "Lewis and Fowler (2014)"
   },
   {
    "id": "lwakatare2015",
@@ -7452,7 +7804,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Lwakatare, Kuvaja and Oivo, 2015)",
+   "narrative": "Lwakatare, Kuvaja and Oivo (2015)"
   },
   {
    "id": "merkel2014",
@@ -7488,7 +7842,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(Merkel, 2014)",
+   "narrative": "Merkel (2014)"
   },
   {
    "id": "morris2025",
@@ -7525,7 +7881,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(Morris, 2025)",
+   "narrative": "Morris (2025)"
   },
   {
    "id": "myrbakken2017",
@@ -7565,7 +7923,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Myrbakken and Colomo-Palacios, 2017)",
+   "narrative": "Myrbakken and Colomo-Palacios (2017)"
   },
   {
    "id": "olsson2012",
@@ -7607,7 +7967,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Olsson, Alahyari and Bosch, 2012)",
+   "narrative": "Olsson, Alahyari and Bosch (2012)"
   },
   {
    "id": "pahl2015",
@@ -7645,7 +8007,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Pahl, 2015)",
+   "narrative": "Pahl (2015)"
   },
   {
    "id": "rahman2019b",
@@ -7684,7 +8048,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Rahman and Williams, 2019)",
+   "narrative": "Rahman and Williams (2019)"
   },
   {
    "id": "rahman2019c",
@@ -7726,7 +8092,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Rahman, Parnin and Williams, 2019)",
+   "narrative": "Rahman, Parnin and Williams (2019)"
   },
   {
    "id": "rodriguez2017",
@@ -7773,7 +8141,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Rodríguez et al., 2017)",
+   "narrative": "Rodríguez et al. (2017)"
   },
   {
    "id": "savor2016",
@@ -7816,7 +8186,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Savor et al., 2016)",
+   "narrative": "Savor et al. (2016)"
   },
   {
    "id": "sculley2015",
@@ -7852,7 +8224,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Sculley et al., 2015)",
+   "narrative": "Sculley et al. (2015)"
   },
   {
    "id": "sigelman2010",
@@ -7887,7 +8261,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(Sigelman et al., 2010)",
+   "narrative": "Sigelman et al. (2010)"
   },
   {
    "id": "skelton2019",
@@ -7925,7 +8301,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(Skelton and Pais, 2019)",
+   "narrative": "Skelton and Pais (2019)"
   },
   {
    "id": "smeds2015",
@@ -7967,7 +8345,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Smeds, Nybom and Porres, 2015)",
+   "narrative": "Smeds, Nybom and Porres (2015)"
   },
   {
    "id": "stahl2014",
@@ -8006,7 +8386,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Ståhl and Bosch, 2014)",
+   "narrative": "Ståhl and Bosch (2014)"
   },
   {
    "id": "syed2020",
@@ -8054,7 +8436,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Syed et al., 2020)",
+   "narrative": "Syed et al. (2020)"
   },
   {
    "id": "vanderaalst2018",
@@ -8097,7 +8481,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(van der Aalst, Bichler and Heinzl, 2018)",
+   "narrative": "van der Aalst, Bichler and Heinzl (2018)"
   },
   {
    "id": "vasilescu2015",
@@ -8139,7 +8525,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Vasilescu et al., 2015)",
+   "narrative": "Vasilescu et al. (2015)"
   },
   {
    "id": "verma2015",
@@ -8182,7 +8570,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Verma et al., 2015)",
+   "narrative": "Verma et al. (2015)"
   },
   {
    "id": "willcocks2017",
@@ -8225,7 +8615,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Willcocks, Lacity and Craig, 2017)",
+   "narrative": "Willcocks, Lacity and Craig (2017)"
   },
   {
    "id": "zhu2016",
@@ -8266,7 +8658,9 @@
    "foundational": true,
    "foundationalLabel": false,
    "seminal": true,
-   "peerReviewed": true
+   "peerReviewed": true,
+   "inText": "(Zhu, Bass and Champlin-Scharff, 2016)",
+   "narrative": "Zhu, Bass and Champlin-Scharff (2016)"
   },
   {
    "id": "chandramouli2022",
@@ -8303,7 +8697,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(Chandramouli, 2022)",
+   "narrative": "Chandramouli (2022)"
   },
   {
    "id": "cncf2023",
@@ -8341,7 +8737,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(CNCF, 2023)",
+   "narrative": "CNCF (2023)"
   },
   {
    "id": "cncf2024",
@@ -8380,7 +8778,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(CNCF, 2024)",
+   "narrative": "CNCF (2024)"
   },
   {
    "id": "cncf2025",
@@ -8418,7 +8818,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(CNCF, 2025)",
+   "narrative": "CNCF (2025)"
   },
   {
    "id": "cncftagappdelivery2023",
@@ -8455,7 +8857,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(CNCF TAG App Delivery, 2023)",
+   "narrative": "CNCF TAG App Delivery (2023)"
   },
   {
    "id": "dora2021",
@@ -8494,7 +8898,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(DORA, 2021)",
+   "narrative": "DORA (2021)"
   },
   {
    "id": "dora2022",
@@ -8534,7 +8940,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(DORA, 2022)",
+   "narrative": "DORA (2022)"
   },
   {
    "id": "dora2023",
@@ -8574,7 +8982,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(DORA, 2023)",
+   "narrative": "DORA (2023)"
   },
   {
    "id": "dora2024",
@@ -8614,7 +9024,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(DORA, 2024)",
+   "narrative": "DORA (2024)"
   },
   {
    "id": "dora2025",
@@ -8652,7 +9064,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(DORA, 2025)",
+   "narrative": "DORA (2025)"
   },
   {
    "id": "finopsfoundationnd",
@@ -8688,7 +9102,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(FinOps Foundation, no date)",
+   "narrative": "FinOps Foundation (no date)"
   },
   {
    "id": "finopsfoundation2026",
@@ -8725,7 +9141,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(FinOps Foundation, 2026)",
+   "narrative": "FinOps Foundation (2026)"
   },
   {
    "id": "gitlab2025",
@@ -8763,7 +9181,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(GitLab, 2025)",
+   "narrative": "GitLab (2025)"
   },
   {
    "id": "lawson2026",
@@ -8803,7 +9223,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(Lawson and Sica, 2026)",
+   "narrative": "Lawson and Sica (2026)"
   },
   {
    "id": "openpolicyagentnd",
@@ -8843,7 +9265,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(Open Policy Agent, no date)",
+   "narrative": "Open Policy Agent (no date)"
   },
   {
    "id": "opengitops2021",
@@ -8879,7 +9303,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(OpenGitOps, 2021)",
+   "narrative": "OpenGitOps (2021)"
   },
   {
    "id": "openssf2025",
@@ -8916,7 +9342,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(OpenSSF, 2025)",
+   "narrative": "OpenSSF (2025)"
   },
   {
    "id": "souppaya2022",
@@ -8955,7 +9383,9 @@
    "foundational": false,
    "foundationalLabel": false,
    "seminal": false,
-   "peerReviewed": false
+   "peerReviewed": false,
+   "inText": "(Souppaya, Scarfone and Dodson, 2022)",
+   "narrative": "Souppaya, Scarfone and Dodson (2022)"
   }
  ]
 }

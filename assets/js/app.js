@@ -221,16 +221,22 @@
         '<h3 class="card-title">' + (link ? '<a href="' + esc(link) + '" target="_blank" rel="noopener">' + highlight(r.title, hl) + "</a>" : highlight(r.title, hl)) + "</h3>" +
         '<p class="card-authors">' + highlight(fmtAuthors(r), hl) + "</p>" +
         '<p class="card-venue"><span class="card-year">' + (r.year != null ? r.year + (r.yearSuffix || "") : "n.d.") + "</span> · " + highlight(venueLine(r), hl) + "</p>" +
+        (r.inText ? '<div class="cite-strip" aria-label="In-text citation (Harvard, Cite Them Right)">' +
+          '<div class="cite-row"><span class="cite-label">In-text</span><code class="cite-val">' + highlight(r.inText, hl) + '</code>' +
+            '<button type="button" class="btn btn-ghost btn-copy" data-act="intext" title="Copy parenthetical in-text citation" aria-label="Copy in-text citation ' + esc(r.inText) + '">' + ICON_COPY + "Copy</button></div>" +
+          '<div class="cite-row"><span class="cite-label">Narrative</span><code class="cite-val">' + highlight(r.narrative, hl) + '</code>' +
+            '<button type="button" class="btn btn-ghost btn-copy" data-act="narrative" title="Copy narrative citation" aria-label="Copy narrative citation ' + esc(r.narrative) + '">' + ICON_COPY + "Copy</button></div>" +
+        "</div>" : "") +
         (r.relevance ? '<p class="card-rel">' + highlight(r.relevance, hl) + "</p>" : "") +
         '<div class="card-tags">' + r.tags.map(function (t) { return '<button type="button" class="card-tag" data-tag="' + esc(t) + '" title="Filter by tag">' + highlight(t, hl) + "</button>"; }).join("") + "</div>" +
         '<div class="card-foot">' +
           (link ? '<a class="card-link" href="' + esc(link) + '" target="_blank" rel="noopener">' + ICON_LINK + highlight(linkText, hl) + "</a>" : "<span></span>") +
           '<div class="card-actions">' +
-            '<button type="button" class="btn btn-ghost" data-act="harvard">' + ICON_COPY + "Copy Harvard</button>" +
+            '<button type="button" class="btn btn-ghost" data-act="harvard">' + ICON_COPY + "Copy full reference</button>" +
             '<button type="button" class="btn btn-ghost" data-act="bibtex">' + ICON_COPY + "Copy BibTeX</button>" +
           "</div>" +
         "</div>" +
-        '<details class="cite-block"><summary>Show full citation &amp; BibTeX</summary><pre>' + esc(r.harvard) + "</pre><pre>" + esc(Exporters.toBibTeX(r)) + "</pre></details>" +
+        '<details class="cite-block"><summary>Show full reference, in-text &amp; BibTeX</summary><pre>' + esc(r.harvard) + "</pre>" + (r.inText ? "<pre>In-text: " + esc(r.inText) + "\nNarrative: " + esc(r.narrative) + "</pre>" : "") + "<pre>" + esc(Exporters.toBibTeX(r)) + "</pre></details>" +
       "</li>";
     }).join("");
     $("#cards").innerHTML = html;
@@ -383,7 +389,10 @@
       var r = REFS.find(function (x) { return x.id === card.getAttribute("data-id"); });
       var act = e.target.closest("[data-act]");
       if (act) {
-        if (act.getAttribute("data-act") === "harvard") copyText(r.harvard, "Harvard citation copied");
+        var a = act.getAttribute("data-act");
+        if (a === "harvard") copyText(r.harvard, "Harvard reference copied");
+        else if (a === "intext") copyText(r.inText, "Copied");
+        else if (a === "narrative") copyText(r.narrative, "Copied");
         else copyText(Exporters.toBibTeX(r), "BibTeX copied");
       }
     });
@@ -408,6 +417,8 @@
         else if (kind === "bib") download(stamp + ".bib", Exporters.toBibFile(rows), "application/x-bibtex;charset=utf-8");
         else if (kind === "ris") download(stamp + ".ris", Exporters.toRISFile(rows), "application/x-research-info-systems;charset=utf-8");
         else if (kind === "csv") download(stamp + ".csv", Exporters.toCSV(rows), "text/csv;charset=utf-8");
+        else if (kind === "intext") download(stamp + "-in-text-citations.txt", Exporters.toInText(rows));
+        else if (kind === "copyintext") { copyText(Exporters.toInText(rows), rows.length + " in-text citations copied"); return; }
         else if (kind === "copy") { copyText(Exporters.toHarvard(rows), rows.length + " Harvard citations copied"); return; }
         toast("Exported " + rows.length + " reference" + (rows.length === 1 ? "" : "s"));
       });

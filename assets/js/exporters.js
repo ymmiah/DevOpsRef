@@ -87,7 +87,7 @@
     return /[",\r\n]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s;
   }
   var CSV_COLS = ["id", "section", "authors", "year", "title", "venue", "publisher", "volume", "issue",
-    "pages", "type", "doi", "url", "citations", "peerReviewed", "foundational", "tags", "relevance", "harvard"];
+    "pages", "type", "doi", "url", "citations", "peerReviewed", "foundational", "tags", "relevance", "harvard", "inText", "narrative"];
   function toCSV(rows) {
     var out = [CSV_COLS.join(",")];
     rows.forEach(function (r) {
@@ -99,10 +99,18 @@
     });
     return "\uFEFF" + out.join("\r\n") + "\r\n";
   }
+  function sortKey(s) { return String(s || "").replace(/^\(/, "").normalize("NFKD").replace(/[\u0300-\u036f]/g, "").toLowerCase(); }
+  function inTextSorted(rows) {
+    return rows.slice().sort(function (a, b) { return sortKey(a.inText).localeCompare(sortKey(b.inText), "en"); });
+  }
+  // Plain-text list: one source per line, "(parenthetical)<TAB>narrative", sorted A–Z (pastes into Word/Excel as two columns)
+  function toInText(rows) {
+    return "In-text (parenthetical)\tNarrative\n" + inTextSorted(rows).map(function (r) { return r.inText + "\t" + r.narrative; }).join("\n") + "\n";
+  }
   function toHarvard(rows) { return rows.map(function (r) { return r.harvard; }).join("\n\n") + "\n"; }
   function toBibFile(rows) { return rows.map(toBibTeX).join("\n\n") + "\n"; }
   function toRISFile(rows) { return rows.map(toRIS).join("\r\n\r\n") + "\r\n"; }
 
-  return { toBibTeX: toBibTeX, toRIS: toRIS, toCSV: toCSV, toHarvard: toHarvard,
+  return { toInText: toInText, inTextSorted: inTextSorted, toBibTeX: toBibTeX, toRIS: toRIS, toCSV: toCSV, toHarvard: toHarvard,
     toBibFile: toBibFile, toRISFile: toRISFile, authorList: authorList };
 });

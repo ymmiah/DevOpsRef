@@ -1,6 +1,6 @@
 /* DevOpsRef search engine — no dependencies.
  * Supports: AND / OR / NOT, -term, "exact phrase", ( grouping ),
- * field queries (author:, title:, year:, venue:, tag:, type:, doi:, section:, id:, cites:),
+ * field queries (author:, cite:/intext:, title:, year:, venue:, tag:, type:, doi:, section:, id:, cites:),
  * year ranges (year:2021..2024, year:>=2020), prefix matching and typo-tolerant fuzzy matching. */
 (function (root, factory) {
   if (typeof module === "object" && module.exports) module.exports = factory();
@@ -21,9 +21,9 @@
     venue: "venue", journal: "venue", publisher: "venue", in: "venue", so: "venue",
     tag: "tag", tags: "tag", kw: "tag", keyword: "tag",
     type: "type", doi: "doi", section: "section", sec: "section", id: "id",
-    cites: "cites", citations: "cites", note: "relevance", relevance: "relevance", abstract: "relevance"
+    cites: "cites", citations: "cites", cite: "cite", intext: "cite", citation: "cite", narrative: "cite", note: "relevance", relevance: "relevance", abstract: "relevance"
   };
-  var WEIGHTS = { title: 6, tags: 4, author: 4, venue: 2, relevance: 1.5, section: 1, other: 0.5 };
+  var WEIGHTS = { title: 6, tags: 4, author: 4, cite: 4, venue: 2, relevance: 1.5, section: 1, other: 0.5 };
 
   /* ---------- Index ---------- */
   function buildIndex(refs) {
@@ -33,7 +33,7 @@
       var f = {
         title: norm(r.title), author: norm(authors.join(" ; ")), venue: norm([r.venue, r.publisher].join(" ")),
         relevance: norm(r.relevance), tags: norm((r.tags || []).join(" ; ")),
-        section: norm(r.section.number + " " + r.section.name), other: norm([r.type, r.doi, r.id, r.year].join(" "))
+        cite: norm([r.inText, r.narrative].join(" ; ")), section: norm(r.section.number + " " + r.section.name), other: norm([r.type, r.doi, r.id, r.year].join(" "))
       };
       var toks = {};
       Object.keys(f).forEach(function (k) {
@@ -176,8 +176,8 @@
     return res;
   };
 
-  var TEXT_FIELDS = { author: ["author"], title: ["title"], venue: ["venue"], relevance: ["relevance"] };
-  var ALL_FIELDS = ["title", "author", "venue", "relevance", "tags", "other"];
+  var TEXT_FIELDS = { cite: ["cite"], author: ["author"], title: ["title"], venue: ["venue"], relevance: ["relevance"] };
+  var ALL_FIELDS = ["title", "author", "cite", "venue", "relevance", "tags", "other"];
 
   // returns {match:bool, score:number, hl:[strings]}
   Engine.prototype.matchTerm = function (doc, term, ctx) {
